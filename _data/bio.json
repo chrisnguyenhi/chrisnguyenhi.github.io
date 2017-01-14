@@ -94,27 +94,51 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Oceanit Laboratories, Inc.",
+      "position": "Network and Security Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-11-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Used open-source software and seven Raspberry Pis to created an automated 72-inch video wall system",
+        "Conducted high level network assessments for external clients and state agencies"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Ditto",
+      "position": "Front End Development Intern",
+      "website": "",
+      "startDate": "2015-10-30",
+      "endDate": "2016-02-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program",
+        "Conducted extensive consumer research using AB testing and Google Analytics of user behavior"
+      ]
+    },
+     {
+      "company": "Oceanit Laboratories, Inc.",
+      "position": "Oceanit Student Intern",
+      "website": "",
+      "startDate": "2015-06-02",
+      "endDate": "2015-07-28",
+      "summary": "",
+      "highlights": [
+        "Customized a mobile geographic information system (GIS) application that reduced the damage assessment time of disaster response units by 40% (4-5 hours) using the ArcGIS API",
+        "Developed a cross-platform Customer Relationship Management (CRM) mobile application using the Cordova framework to increase client and consultant interaction by 10%"
+      ]
+    },
+     {
+      "company": "Hawaii Department of Education",
+      "position": " STEM Resource Mentor",
+      "website": "",
+      "startDate": "2014-09-16",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Collaborated with 28 schools in the Kaimuki-McKinley-Roosevelt Complex Area to develop a 21st-century STEM curriculum that sparked a 48% STEM interest",
+        "Mentored students in the Honolulu District and Hawaii State Science and Engineer Fair that totalled $15,000+ in awards from Chevron, IEEE, Intel and more"
       ]
     }
   ],
