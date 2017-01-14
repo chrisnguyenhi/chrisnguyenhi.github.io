@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Christopher Nguyen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://chrisnguyenhi.github.io/template/images/headshot.jpg",
+    "email": "cnguyen7@hawaii.edu",
+    "phone": "808-343-7029",
+    "website": "https://chrisnguyenhi.github.io",
+    "summary": "ALOHA! My name is Christopher Nguyen from Honolulu, Hawaii. I am a third-year Computer Science student at the University of Hawaii at Manoa majoring in Computer Science and minoring in Business Administration.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,36 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "chrisnguyenhi",
+        "url": "http://github.com/chrisnguyenhi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+        "username": "chrisnguyenhi",
+        "url": "http://linkedin.com/in/chrisnguyenhi"
+      }  
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "software development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "NLP",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -61,23 +56,24 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "JavaScript",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C++",
+        "HTML/CSS",
+        "PHP",
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Node.js",
+        "Cordova",
+        "Ionic",
+        "OpenCV",
+        "Git",
+        "Raspberry Pi"
       ]
     }
   ],
@@ -85,15 +81,15 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "Bachelor's",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.78",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
