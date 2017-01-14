@@ -2,7 +2,7 @@
   "basics": {
     "name": "Christopher Nguyen",
     "label": "Student",
-    "picture": "https://chrisnguyenhi.github.io/template/images/headshot.jpg",
+    "picture": "https://chrisnguyenhi.github.io/images/headshot.jpg",
     "email": "cnguyen7@hawaii.edu",
     "phone": "808-343-7029",
     "website": "https://chrisnguyenhi.github.io",
@@ -59,7 +59,8 @@
         "JavaScript",
         "Java",
         "C++",
-        "HTML/CSS",
+        "HTML",
+        "CSS",
         "PHP",
         "SQL"
       ]
@@ -72,6 +73,8 @@
         "Cordova",
         "Ionic",
         "OpenCV",
+        "MySQL",
+        "Brunel",
         "Git",
         "Raspberry Pi"
       ]
