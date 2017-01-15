@@ -4,7 +4,7 @@ type: project
 image: images/output.png
 title: Brunel Visualizations
 permalink: projects/brunelvis
-date: 2015
+date: 2016
 labels:
   - Java
   - Brunel
