@@ -40,7 +40,7 @@ A similar data visualization was made in ``marvel.java`` with a much larger data
 <br><br>
 Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/marvel-wikia-data.csv
 <br><br>
-<img src="/images/large.PNG" width="700" height="400">
+<img src="/images/large.png" width="700" height="400">
 <br>
 <br>
 <br>Try Brunel Visualization 2.0: http://brunel.mybluemix.net/gallery_app/renderer
