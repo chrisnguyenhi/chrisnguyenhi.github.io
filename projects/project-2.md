@@ -7,6 +7,7 @@ permalink: projects/jasonvsdylan
 date: 2014
 labels:
   - Java
+  - EZ
 summary: A scripted Pokemon battle animation developed in ICS 111 at the University of Hawaii at Manoa.
 ---
 
