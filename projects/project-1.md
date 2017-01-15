@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Screenshot2.PNG
-title: Jason vs Dylan
-permalink: projects/jasonvsdylan
+title: Point-It!
+permalink: projects/pointit
 date: 2015
 labels:
   - PHP
