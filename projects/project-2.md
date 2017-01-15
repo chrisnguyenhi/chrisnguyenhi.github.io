@@ -7,7 +7,7 @@ permalink: projects/jasonvsdylan
 date: 2014
 labels:
   - Java
-summary: A scripted Pokemon battle animation developed in ICS 111.
+summary: A scripted Pokemon battle animation developed in ICS 111 at the University of Hawaii at Manoa.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/ani2.PNG">
