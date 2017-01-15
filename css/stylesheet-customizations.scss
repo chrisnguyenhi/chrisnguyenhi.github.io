@@ -7,7 +7,8 @@
 
 // Customize the background color
 body {
-  background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
+  background: -webkit-linear-gradient(to left, #ffd89b , #19547b); 
+  background: linear-gradient(to left, #ffd89b , #19547b);
 }
 
 // Customize the menubar color
@@ -19,3 +20,4 @@ body {
 .icon-color {
   color: darken(lightsteelblue, 20%);
 }
+ 
