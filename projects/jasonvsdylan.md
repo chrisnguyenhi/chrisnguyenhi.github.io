@@ -11,9 +11,10 @@ labels:
 summary: A scripted Pokemon battle animation developed in ICS 111 at the University of Hawaii at Manoa.
 ---
 
-<img width=700 length=400 src="../images/ani2.PNG">
-<img  width=700 length=400 src="../images/ani3.PNG">
+<img src="/images/ani2.PNG" width="700" height="400">
 <br>
+<img src="../images/ani3.PNG" width="700" length="400" >
+
 
 Jason vs. Dylan is a Java project that creates an animation based on instructions off a text file. The characters were based off of my ICS 111 (Intro to Programming I) professor and teaching assistant. The graphics were implemented using [EZ](http://www2.hawaii.edu/~dylank/ics111/) library provided by ICS 111 class. 
 
