@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/output.png
-title: Point-It!
+title: Brunel Visualizations
 permalink: projects/brunelvis
 date: 2015
 labels:
@@ -34,7 +34,7 @@ Brunel Command: <br>
 <br>
 <br>
 <br>
-###Marvel Characters by Appearance
+Marvel Characters by Appearance
 <br>
 A similar data visualization was made in ``marvel.java`` with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, ?). The larger the bubble, the more the number of appearances.
 <br><br>
@@ -48,4 +48,4 @@ Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirt
 
 For more information and the code repository, please check out the Github link below! 
 
-Source: <a href="https://github.com/chrisnguyenhi/Point-It"><i class="large github icon"></i>Point-It!</a>
+Source: <a href="https://github.com/chrisnguyenhi/brunelvis"><i class="large github icon"></i>BrunelVis</a>
