@@ -1,5 +1,5 @@
-# Christopher Nguyen
+# chrisnguyenhi.github.io
 
-My own professional portfolio powered by Techfolios. 
+Christopher Nguyen's professional portfolio powered by Techfolios. 
 
 
