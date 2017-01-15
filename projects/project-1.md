@@ -21,7 +21,7 @@ Point It! is a database-backed web application using the [Google Maps API](https
 
 This application was inspired by [MERCI](http://www.oceanit.com/products/merci), the mobile Geographical Information System (GIS) app I configured during my internship at [Oceanit](http://www.oceanit.com/) in the summer of 2015. The main difference is that this application is meant for everyday people to mark points of interests as opposed to emergency response units marking points to perform damage assessments.
 
-In this project, I gained experience making database-backed web applications using PHP and MySQL (with dashes of HTML and CSS) for the first time as opposed to XHTML, Java, and Derby which was taught in my ICS 321 (Data Storage and Retrieval) class. Additionally, it was also like I was doing real-life software development when I first signed up for the Google Maps API. For local testing, I used the XAMMP
+In this project, I gained experience making database-backed web applications using PHP, MySQL, and the [XAMPP](https://www.apachefriends.org/index.html) development environment for the first time as opposed to XHTML and Java which was taught in my ICS 321 (Data Storage and Retrieval) class. Additionally, it was also like I was doing real-life software development when I first signed up for the Google Maps API. 
 
 For more information and the code repository, please check out the Github link below! 
  
