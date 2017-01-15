@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/output.PNG
+image: images/output.png
 title: Point-It!
 permalink: projects/brunelvis
 date: 2015
@@ -14,7 +14,7 @@ labels:
 
 summary: A series of data visualization project in Java using the Brunel Visualization grammar.
 ---
-<img src="/images/output.PNG" width="700" height="400">
+<img src="/images/output.png" width="700" height="400">
 
 A Java and Brunel Visualization powered data visualization of employment by college major from 2011-2012.
 The dataset contained the employment status and college major of college graduates of all ages from 2011-2012. 
@@ -24,7 +24,7 @@ Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirt
 From this dataset, a bubble chart sorted by employment number and colored by major category (Computers & Mathematics, Education, Engineering, etc.) was made using the Brunel language. 
 The larger the bubble, the higher the employment number is for each major.
 <br><br>
-<img src="/images/output.PNG" width="700" height="400">
+<img src="/images/output.png" width="700" height="400">
 <br>
 This program is written in Java using Brunel 2.0. After compiling, the program creates a html file containing the visualization results. 
 <br><br>
