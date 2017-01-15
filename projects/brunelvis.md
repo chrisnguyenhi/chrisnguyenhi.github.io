@@ -12,11 +12,11 @@ labels:
   - CSS
   - JavaScript
 
-summary: A series of data visualization project in Java using the Brunel Visualization grammar.
+summary: A series of data visualization project in Java using the Brunel Visualization grammar made as a personal side-project.
 ---
 <img src="/images/output.png" width="700" height="400">
 
-A Java and Brunel Visualization powered data visualization of employment by college major from 2011-2012.
+A Java and Brunel powered data visualization of employment by college major from 2011-2012.
 The [dataset](https://raw.githubusercontent.com/fivethirtyeight/data/master/college-majors/all-ages.csv) contained the employment status and college major of college graduates of all ages from 2011-2012. 
 
 From this dataset, a bubble chart sorted by employment number and colored by major category (Computers & Mathematics, Education, Engineering, etc.) was made using the Brunel language. 
