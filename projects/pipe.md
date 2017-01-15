@@ -4,7 +4,7 @@ type: project
 image: images/kipr.jpg
 title: P.I.P.E
 permalink: projects/pipe
-date: 2014
+date: 2013
 labels:
   - C++
   - C
