@@ -1,60 +1,51 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/output.PNG
+title: Point-It!
+permalink: projects/brunelvis
+date: 2015
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Brunel
+  - HTML
+  - CSS
+  - JavaScript
+
+summary: A series of data visualization project in Java using the Brunel Visualization grammar.
 ---
+<img src="/images/output.PNG" width="700" height="400">
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+A Java and Brunel Visualization powered data visualization of employment by college major from 2011-2012.
+The dataset contained the employment status and college major of college graduates of all ages from 2011-2012. 
+<br><br>
+Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirtyeight/data/master/college-majors/all-ages.csv
+<br><br>
+From this dataset, a bubble chart sorted by employment number and colored by major category (Computers & Mathematics, Education, Engineering, etc.) was made using the Brunel language. 
+The larger the bubble, the higher the employment number is for each major.
+<br><br>
+<img src="/images/output.PNG" width="700" height="400">
+<br>
+This program is written in Java using Brunel 2.0. After compiling, the program creates a html file containing the visualization results. 
+<br><br>
+Brunel Command: <br>
+``data('https://raw.githubusercontent.com/fivethirtyeight/data/master/college-majors/all-ages.csv') bubble color(Major_category) size(Employed) title("Employment by Major from 2010-2012") sort(Employed) label(Major) tooltip(Major, #all) legends(none) style('.header{fill: black} .background {fill:#eef2f3}')
+``
+<br>
+<br>
+<br>
+###Marvel Characters by Appearance
+<br>
+A similar data visualization was made in ``marvel.java`` with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, ?). The larger the bubble, the more the number of appearances.
+<br><br>
+Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/marvel-wikia-data.csv
+<br><br>
+<img src="/images/large.PNG" width="700" height="400">
+<br>
+<br>
+<br>Try Brunel Visualization 2.0: http://brunel.mybluemix.net/gallery_app/renderer
+<br>Download Brunel from Java: https://github.com/Brunel-Visualization/Brunel/releases
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For more information and the code repository, please check out the Github link below! 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Source: <a href="https://github.com/chrisnguyenhi/Point-It"><i class="large github icon"></i>Point-It!</a>
