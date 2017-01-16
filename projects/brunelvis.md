@@ -25,7 +25,7 @@ This program is written in Java using Brunel 2.0. After compiling, the program c
 
 A similar data visualization was made in ``marvel.java`` with a different and larger [dataset](https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/marvel-wikia-data.csv) containing the information of Marvel Characters scraped off [Marvel Wikia](http://marvel.wikia.com/wiki/Marvel_Database). 
 
-<img src="/images/large.png" width="800" height="600">
+<img src="/images/large.png" width="700" height="600">
 
 
 This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, and ?). The larger the bubble, the more the number of appearances.
