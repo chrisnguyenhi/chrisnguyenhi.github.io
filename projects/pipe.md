@@ -20,7 +20,7 @@ After a sentence is entered, the program translates keywords into commands using
 
 This project eventually won Best of Computer Science at the 2014 Honolulu District Science Fair and earned the Department of Information and Computer Sciences Award at the 2014 Hawaii State Science and Engineering Fair.
 
-This was my first-ever programming project using the first programming language I learned. Now that I am I college junior, I feel that it was probably a bad idea for a high school junior to pick C++ as his first programming language based off some Forbes article I found in 2013 about the top programming langauages to learn. 
+This was my first-ever programming project using the first programming language I learned. Now that I am I college junior, I feel that it was probably a bad idea for a high school junior to pick C++ as his first programming language to learn. 
 
 What drove me to create P.I.P.E was my desire to simplify programming for beginning programmers. Through this science fair project, I had my first experience with Natural Language Processing (a popular topic in Computer Science). I also wanted a cool demo with a robot at science fairs, so I decided to do something with robotics. 
 
