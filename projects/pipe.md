@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pipedot.png
+image: images/pipedot.jpg
 title: P.I.P.E
 permalink: projects/pipe
 date: 2013
