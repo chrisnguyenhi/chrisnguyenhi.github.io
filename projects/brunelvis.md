@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/output.png
+image: images/bruneldot.png
 title: Brunel Visualizations
 permalink: projects/brunelvis
 date: 2016
