@@ -19,7 +19,7 @@ The [dataset](https://raw.githubusercontent.com/fivethirtyeight/data/master/coll
 
 From this dataset, a bubble chart sorted by employment number and colored by major category (Computers & Mathematics, Education, Engineering, etc.) was made using the [Brunel Visualization](https://developer.ibm.com/open/openprojects/brunel-visualization/) language. 
 
-This program is written in Java using Brunel 2.0. After compiling, the program creates an HTML file containing the visualization results. The larger the bubble, the higher the employment number is for each major. 
+The BrunelVis Java program creates an HTML file containing the visualization results. The larger the bubble, the higher the employment number is for each major. From here, we see that Business Management and Administration has the most employment. 
 
 <img src="/images/output.png" width="700" height="500">
 
@@ -27,7 +27,7 @@ A similar data visualization was made in ``marvel.java`` with a different and la
 
 <img src="/images/large.png" width="700" height="600">
 
-This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, and ?). The larger the bubble, the more the number of appearances.
+This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, and ?). The larger the bubble, the more the number of appearances. From here, we see that the top 3 characters who have made the most appearances are Iron Man, Spider Man, and Captain America. 
 
 For more information and the code repository, please check out the Github link below! 
 
