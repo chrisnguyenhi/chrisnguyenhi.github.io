@@ -1,6 +1,7 @@
 <div style="padding-top: 20px" class="ui container ">
  <p style="text-align: center">This is just a collection of some of my favorite projects. To get a full listing of what I'm working on, check out my <a href="https://github.com/chrisnguyenhi/">Github</a>!</p>
-
+<br>
+ 
   <div class="ui stackable centered four cards">
     {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
     {% for page in project_pages %}
