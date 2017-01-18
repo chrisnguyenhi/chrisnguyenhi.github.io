@@ -6,7 +6,7 @@
     "email": "cnguyen7@hawaii.edu",
     "phone": "808-343-7029",
     "website": "https://chrisnguyenhi.github.io",
-    "summary": "ALOHA! I'm Chris from Honolulu, Hawaii. I am a third-year Computer Science student at the University of Hawaii at Manoa majoring in Computer Science and minoring in Business Administration.",
+    "summary": "ALOHA! I'm Chris from Honolulu, Hawaii. I am a third-year student at the University of Hawaii at Manoa majoring in Computer Science and minoring in Business Administration. I expect to finish my undergraduate studies in Spring 2018.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -110,7 +110,8 @@
       "summary": "",
       "highlights": [
         "Used open-source software and seven Raspberry Pis to created an automated 72-inch video wall system.",
-        "Conducted high level network assessments for external clients and state agencies."
+        "Conducted high level network assessments for external clients and state agencies.",
+        "Recruited and screened 100+ beta testers for Ditto's initial release."
       ]
     },
     {
