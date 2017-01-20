@@ -97,29 +97,29 @@
       "website": "",
       "startDate": "2016-11-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "oceanit.com",
       "highlights": [
         "Used open-source software and seven Raspberry Pis to created an automated 72-inch video wall system.",
-        "Conducted high level network assessments for external clients and state agencies.",
-        "Recruited and screened 100+ beta testers for Ditto's initial release."
+        "Conducted high level network assessments for external clients and state agencies."
       ]
     },
     {
       "company": "Ditto",
       "position": "Front End Development Intern",
-      "website": "",
+      "website": "bluestartups.com/cohort-6",
       "startDate": "2015-10-30",
       "endDate": "2016-02-15",
       "summary": "",
       "highlights": [
         "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program.",
-        "Conducted extensive consumer research using AB testing and Google Analytics of user behavior."
+        "Conducted extensive consumer research using AB testing and Google Analytics of user behavior.",
+        "Recruited and screened 100+ beta testers for Ditto's initial release."
       ]
     },
      {
       "company": "Oceanit Laboratories, Inc.",
       "position": "Oceanit Student Intern",
-      "website": "",
+      "website": "oceanit.com",
       "startDate": "2015-06-02",
       "endDate": "2015-07-28",
       "summary": "",
@@ -131,7 +131,7 @@
      {
       "company": "Hawaii Department of Education",
       "position": " STEM Resource Mentor",
-      "website": "",
+      "website": "hawaiipublicschools.org",
       "startDate": "2014-09-16",
       "endDate": "Present",
       "summary": "",
