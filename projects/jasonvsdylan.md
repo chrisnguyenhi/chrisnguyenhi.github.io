@@ -8,11 +8,13 @@ date: 2014
 labels:
   - Java
   - EZ
+  - Animation
+  - Pokemon
 summary: A scripted Pokemon battle animation developed in ICS 111 at the University of Hawaii at Manoa.
 ---
 <img src="../images/ani3.PNG" width="600" length="400" >
 
-Jason vs. Dylan is a Java project that creates an animation from instructions off text files. The characters were based off of my ICS 111 (Intro to Programming I) professor and teaching assistant. The graphics were implemented using [EZ](http://www2.hawaii.edu/~dylank/ics111/) library provided by ICS 111 class. In this project, I gained experience using graphics and sound in Java as well as file scanning and text parsing.
+Jason vs. Dylan is a Java project that creates an animation from instructions off text files. The characters were based off of my ICS 111 (Intro to Programming I) professor and teaching assistant. The graphics were implemented using [EZ](http://www2.hawaii.edu/~dylank/ics111/) library provided by ICS 111 class. From this project, I gained experience using graphics and sounds to create animations in Java.
 
 The ``cnguyen7_animator`` class creates an [EZImage](http://www2.hawaii.edu/~dylank/ics111/doc/) object or "character" and allows it to read commands from .txt files under the convention of ``command numbervalue duration`` and translates them into functions in the EZImage class.
 
