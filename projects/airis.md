@@ -14,7 +14,7 @@ summary: A console application that uses OpenCV to track motion in real-time. My
 ---
 <img class class="ui medium right floated rounded image" src="../images/airisdot.png">
 
-AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Computer Vision library to track motion in real time. This project was a collaborative effort for me a STEM Resource Mentor for the Department of Education's Kaimuki-McKinley-Roosevelt Complex Area.
+AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Computer Vision library to track motion in real time through a live-video feed through a camera or a normal video file. This project was a collaborative effort for me a STEM Resource Mentor for the Department of Education's Kaimuki-McKinley-Roosevelt Complex Area.
 
 As a mentor, I was tasked with teaching two high school students how to code in C++ and use the OpenCV library for this project. For the programming side, I constructed the basic framework to track motion using the concept of [image differencing](https://en.wikipedia.org/wiki/Image_differencing) and used a Windows grid display app for validation during data collection.
 
