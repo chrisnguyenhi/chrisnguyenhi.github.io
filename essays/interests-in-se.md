@@ -11,7 +11,7 @@ labels:
 
 In my senior year of high school, I taught myself how to code because I needed a project to impress a girl at a science fair. Now I'm a Computer Science major.
 
-Hi! My name is Christopher Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. My software engineering experiences come from my internships at [Oceanit](http://www.oceanit.com/) and Ditto, a startup funded by the [Blue Startups Accelerator Program](http://bluestartups.com/). 
+Hi! My name is Christopher Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. My software engineering experiences come from my internships at [Oceanit](http://www.oceanit.com/) and Ditto, a startup fund by the [Blue Startups Accelerator Program](http://bluestartups.com/). 
 
 At Oceanit, I had the opportunity to work on two mobile apps-- a CRM app and a GIS app. This taught me how to work with both front end and back end development as well as learn existing frameworks and a shared code base. For the CRM app, I had to use [Design Thinking](http://dschool.stanford.edu/dgift/), a human-centered approach to ensure that I create a product that serves consumer needs. At Ditto, I mainly worked on data analysis and front end development. Working at a startup can be intensive, especially with grueling deadlines and the pressure to meet adequete progress within a given period but it was an amazing experience that taught me about the "startup culture." 
 
