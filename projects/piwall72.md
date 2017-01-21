@@ -40,4 +40,4 @@ Lastly, the controller Pi had a ActivateWall.sh script that enables the enter sy
 
 If you want to learn more about this project, please check out the github link below!
 
-Source: <a href="https://github.com/chrisnguyenhi/pipe"><i class="large github icon"></i>PIPE</a>
+Source: <a href="https://github.com/chrisnguyenhi/pipe"><i class="large github icon"></i>Pi Wall 72</a>
