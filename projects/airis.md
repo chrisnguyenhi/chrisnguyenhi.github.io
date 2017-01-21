@@ -10,23 +10,24 @@ labels:
   - OpenCV
   - Computer Vision
   - DOE STEM
-summary: AIRIS - An application that uses OpenCV to track motion in real-time. My collaborative project as a STEM Resource Mentor for the 2016 Honolulu District and Hawaii State Science and Engineering Fair.
+summary: A console application that uses OpenCV to track motion in real-time. My collaborative project as a STEM Resource Mentor for the 2016 Honolulu District and Hawaii State Science and Engineering Fair.
 ---
-<img class class="ui medium right floated rounded image" src="../images/rumba.jpg">
+<img class class="ui medium right floated rounded image" src="../images/airisdot.png">
 
-PIPE (Programming in Pure English) is a console application turns English language sentences and translates them into C for Botball robots. This project won [Best of Computer Science](https://www.hawaiipublicschools.org/DOE%20Forms/HDO/Science%20Fair%202014.pdf) at the 2014 Honolulu District Science Fair and earned the [Computer Science Award](http://scifair-dev.weebly.com/uploads/2/1/4/7/21471206/list_of_winners_by_district.pdf) from the University of Hawaii at Manoa Department of Information and Computer Sciences at the 2014 Hawaii State Science and Engineering Fair.
+AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Computer Vision library to track motion in real time. This project was a collaborative effort for me a STEM Resource Mentor for the Department of Education's Kaimuki-McKinley-Roosevelt Complex Area.
 
-After a command is entered, the program scans for keywords mapped to selected commands in the [Botball](http://www.botball.org/) C library (based on the 2013 Student Developers Kit) and translates them into C file that is ready for Botball robots to run.
-<br>
-<br>
-<img src="../images/PIPE1.png">
-<br>
-This was my first-ever programming project using the first programming language I learned. Now that I am I college junior, I feel that it was probably a bad idea for a high school junior to pick C as his first programming language to learn. It was definitely a huge learning curve from teaching myself how to program to creating an application that accomplishes a goal. 
+As a mentor, I was tasked with teaching two high school students how to code in C++ and use the OpenCV library for this project. For the programming side, I constructed the basic framework to track motion using the concept of [image differencing](https://en.wikipedia.org/wiki/Image_differencing) and used a Windows grid display app for validation during data collection.
 
-What drove me to create PIPE was my desire to simplify programming for beginning programmers. I also wanted a cool demo with a robot at my booth so I decided to do something with a robot. From this high school science fair project, I had my first experience with Natural Language Processing (a popular topic in Computer Science) and learned basic C concepts such as if-statements, for-loops, pointers and I/O. 
+To achieve real-time motion detection, AIRIS uses the concept of image differencing in which the current frame is compared to the previous frame. If the current frame is different from the previous frame then there is indeed movement. 
+<img class class="ui medium right floated rounded image" src="../images/airispic.png">
 
-Today, I am a Computer Science major at the University of Hawaii at Manoa. I also volunteer as a high school project judge and mentor high school students for [Hawaii Science Fairs](http://www.hawaiiacademyofscience.org/) as a way of "giving back" to the things that lead me to where I am today. I've definitely made a huge improvement as a programmer since high school. 
+This project won Best of Systems Software at the 2016 Honolulu District Science and Engineering Fair and was nomimated to attend the Intel Science and Engineering Fair. After the 2016 Honolulu District Science and Engineering Fair, I worked with my mentees to apply this image differencing algorithm to leukemia detection for the 2016 Hawaii State Science and Engineering Fair-- which resulted in this project receiving the University of Hawaii at Manoa Department of Information and Computer Sciences Award and 3rd Prize in Systems Software.
+<img class class="ui medium right floated rounded image" src="../images/airisgroup.png">
 
-If you want to learn more about this project and my humble beginnings as a programmer without any formal Computer Science education, please check out the Github repo below! 
+For this project, I learned how to research advanced topics such as Computer Vision and apply theory to code. This project also gave me the opportunity to improve my ability to teach C++ to students with no programming knowledge and work with a different age group. Learning well enough to teach others has always been a "mantra" of mine and by doing so, I became a better programmer. I definitely believe that high school students are capable of learning Computer Science. 
+
+This project and my mentees were also featured on Hawaii News Now on Sunrise on the [March 11](http://www.hawaiinewsnow.com/story/31448254/students-discuss-their-entries-in-the-hawaii-state-science-and-engineer-fair) airing and the [March 22](http://www.hawaiinewsnow.com/story/31539501/interview-hawaii-state-science-engineering-fair) airing. 
+
+If you want to learn more about this project, please check out this Github link below! 
 
 Source: <a href="https://github.com/chrisnguyenhi/airis"><i class="large github icon"></i>AIRIS</a>
