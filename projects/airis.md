@@ -19,7 +19,7 @@ AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Comput
 As a mentor, I was tasked with teaching two high school students how to code in C++ and use the OpenCV library for this project. For the programming side, I constructed the basic framework to track motion using the concept of [image differencing](https://en.wikipedia.org/wiki/Image_differencing) and used a Windows grid display app for validation during data collection.
 
 To achieve real-time motion detection, AIRIS uses the concept of image differencing in which the current frame is compared to the previous frame. If the current frame is different from the previous frame then there is indeed movement. 
-<img class class="ui medium right floated rounded image" src="../images/airispic.png">
+<img src="../images/airispic.png">
 
 This project won Best of Systems Software at the 2016 Honolulu District Science and Engineering Fair and was nomimated to attend the Intel Science and Engineering Fair. After the 2016 Honolulu District Science and Engineering Fair, I worked with my mentees to apply this image differencing algorithm to leukemia detection for the 2016 Hawaii State Science and Engineering Fair-- which resulted in this project receiving the University of Hawaii at Manoa Department of Information and Computer Sciences Award and 3rd Prize in Systems Software.
 
