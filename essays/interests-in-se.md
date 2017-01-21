@@ -9,7 +9,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/soft.jpg">
 
-In my senior year of high school, I taught myself how to code because I needed a project to impress a girl at a science fair and now I am a Computer Science major! 
+In my senior year of high school, I taught myself how to code because I needed a project to impress a girl at a science fair. Now I'm a Computer Science major.
 
 Hi! My name is Christopher Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. My software engineering experiences come from my internships at [Oceanit](http://www.oceanit.com/) and Ditto, a startup funded by the [Blue Startups Accelerator Program](http://bluestartups.com/). 
 
