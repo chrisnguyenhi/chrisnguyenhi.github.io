@@ -40,7 +40,7 @@ Every Pi had a ``.piwall`` file that held the configuration for the size of the 
 Each tile Pi held a ``.pitile`` file to define where it was in the video wall system and a ``playTile.sh`` script that allowed it to capture a stream from the controller Pi.
 
 The controller Pi had an ``activateController.sh`` script that allowed it to broadcast the video stream across the network. 
-Additionally, the controller Pi held a sshWall file that allowed the controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
+Additionally, the controller Pi held a ``sshWall`` file that allowed the controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
 Lastly, the controller Pi had a ``ActivateWall.sh`` script that enables the enter system to start playing on one-click. 
 
 If you want to learn more about this project, please check out the github link below!
