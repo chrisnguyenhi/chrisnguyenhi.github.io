@@ -23,16 +23,19 @@ Every programmer chooses to use a specific language for a reason whether it thei
 One of key comparisons that people make with JavaScript with how different it is to Java. The first thing that sticks out to me is declaring variables.
 
 In Java, declaring a string and an integer looks like this:
-```java
+<br>
+```
 int myInt = 10;
 String myString = "This is Java.";
 ```
-
+<br>
 While doing the same thing in JavaScript looks like this: 
-```javascript
+<br>
+```
 let myInt = 10;
 let myString = "This is JavaScript."
 ```
+<br>
 Notice how in Java, the variables need to be specified as a String and an int while in JavaScript, we can use let for both a string and an integer. As a programmer who started off with C and Java, this is mindblowing (though I guess the people who started off with [Fortran](http://www.fortran.com/) felt the same way when they first tried Java). 
 
 In a way, being able to declare variables like this is pretty cool because it allows the programmer to skip the small details and focus on the logic of their code. The only thing they would have to worry about is whether or not their variables are ``const`` (constants) or not. As a side note, you'll probably see a lot of JavaScript code online using ``var`` as opposed to ``const`` or ``let`` and this is can end up with errors in the long run according to the [AirBnB JavaScript guide](https://github.com/airbnb/javascript#types).
