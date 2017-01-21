@@ -9,14 +9,14 @@ labels:
   - Random
 summary: An LED Prom Sign made with paper boards and LED battery-powered light strings.
 ---
-<img class class="ui medium right floated rounded image" src="../images/prom1.png" width="600" length="400" >
+<img class class="ui medium right floated rounded image" src="../images/prom1.png" >
 
 This project or rather, "mission" was to create a LED Prom Sign to ask out a girl named Yumi before prom contract agreements were due or before some other guy asks her out.
 The LED Prom Sign was made through battery-powered LED Strings that were ran through paper boards to spell out "WILL YU BE MI Major Date TO PROM."
 This LED Prom Sign was an inexpensive option as it only cost less than $20 to make within a short period of time. 
 
 <br>
-<img class class="ui medium right floated rounded image" src="../images/prom2.png" width="600" length="400" >
+<img class class="ui medium left floated rounded image" src="../images/prom2.png">
 <br>
 
 From this LED Prom Sign project, I learned how to apply basic geometry skills and papercraft to a real life problem under a limited amount of time-- Because literally, the prom contracts were due the day after.
