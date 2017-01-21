@@ -7,9 +7,11 @@ labels:
   - Introduction
 ---
 
-<img class="ui medium left floated image" src="../images/headshot.jpg">
+<img class="ui medium left floated image" src="../images/soft.jpg">
 
-In my senior year of high school, I taught myself how to code because I needed a project to impress a girl at a science fair and now I am a Computer Science major! Hi! My name is Christopher Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. 
+In my senior year of high school, I taught myself how to code because I needed a project to impress a girl at a science fair and now I am a Computer Science major! 
+
+Hi! My name is Christopher Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. 
 
 After interning at [Oceanit](www.oceanit.com) and Ditto, a startup funded by the [Blue Startups Accelerator Program](http://bluestartups.com/). At Oceanit, I had the opportunity to work on two mobile apps-- a CRM app and a GIS app. 
 This taught me how to work with both front end and back end development as well as learn existing frameworks and a shared
