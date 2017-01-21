@@ -45,4 +45,4 @@ Lastly, the controller Pi had a ``ActivateWall.sh`` script that enables the ente
 
 If you want to learn more about this project, please check out the github link below!
 
-Source: <a href="https://github.com/chrisnguyenhi/pipe"><i class="large github icon"></i>Pi Wall 72</a>
+Source: <a href="https://github.com/chrisnguyenhi/piwall72"><i class="large github icon"></i>Pi Wall 72</a>
