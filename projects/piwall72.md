@@ -8,13 +8,13 @@ date: 2016
 labels:
   - Shell
   - Raspberry Pi
+  - IP/TCP
   - Embedded Systems
 summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis for Oceanit Laboratories, Inc. 
 ---
 <img class class="ui medium right floated rounded image" src="../images/piwall2.jpg">
 
-During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system.
-using six LG 24" monitors and seven Raspberry Pis. This project allowed me to work with embedded systems such as the Raspberry Pi as well as networking hardware. This system can be used as a horizontal video wall system and a vertical video wall system.
+During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis. This project allowed me to work with embedded systems such as the Raspberry Pi and IP/TCP networking. This system can be used as a horizontal video wall system and a vertical video wall system.
 In addition, I gained more knowledge about Shell scripting and the idea of automation.
 
 The software supporting this is [Pi-Wall](https://github.com/vigsterkr/pi-wall), a open-source video wall software that allows Raspberry Pis to synchronize a video stream to a controller.
