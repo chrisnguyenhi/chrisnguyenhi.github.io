@@ -26,7 +26,7 @@ As a STEM Resource Mentor, I have [taught high school students](https://chrisngu
 
 ## Summing it all up
 I have a passion for creating software and seeing how technology impacts people and the world. Before graduation in Spring 2018, I want to gain more software development experience, work with Machine Learning, and focus on building effective products.
-I like Computer Science but what I like more is the opportunities it can bring. 
+I like Computer Science but what I like more is the [opportunities](https://www.youtube.com/watch?v=nKIu9yen5nc) it can bring. 
 In the future, I want to work at a company that resonates my values of education and pursue a career in Software Development and Project Management. 
 
 If you want to learn more about my work, please feel free to browse this portfolio site or check out the github link below!
