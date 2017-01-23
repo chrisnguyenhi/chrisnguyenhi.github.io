@@ -12,7 +12,7 @@ labels:
   - Embedded Systems
 summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis for Oceanit Laboratories, Inc. 
 ---
-<img class src="../images/piwall2.jpg" width="auto" length="auto">
+<img class class="ui medium right floated rounded image" src="../images/piwall2.jpg">
 
 During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis. This project allowed me to work with embedded systems such as the Raspberry Pi and IP/TCP networking. This system can be used as a horizontal video wall system and a vertical video wall system.
 In addition, I gained more knowledge about Shell scripting and the idea of automation.
