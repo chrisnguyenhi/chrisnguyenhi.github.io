@@ -24,7 +24,7 @@ I am currently a Network and Security Intern at Oceanit where I conduct high-lev
 One of my values is education and as a teacher at heart, I have a passion for helping and educating others. 
 As a STEM Resource Mentor, I have [taught high school students](https://chrisnguyenhi.github.io/projects/airis) how to code and pushed for more 21st century skills to be taught in the classrooms. This position has allowed to understand different learning styles and work with people of different age groups from students to teachers. As a software engineer, I also hope to create software that can also assists others in their educational journey and continue to push for more Computer Science education at public schools in the future.
 
-# Summing it all up
+## Summing it all up
 I have a passion for creating software and seeing how technology impacts people and the world. Before graduation in Spring 2018, I want to gain more software development experience, work with Machine Learning, and focus on building effective products.
 I like Computer Science but what I like more is the opportunities it can bring. 
 In the future, I want to work at a company that resonates my values of education and pursue a career in Software Development and Project Management. 
