@@ -30,6 +30,9 @@ I like Computer Science but what I like more is the [opportunities](https://www.
 In the future, I want to work at a company that resonates my values of education and pursue a career in Software Development and Project Management. 
 
 If you want to learn more about my work, please feel free to browse this portfolio site or check out the github link below!
+<br>
 Source: <a href="https://github.com/chrisnguyenhi/"><i class="large github icon"></i>chrisnguyenhi</a>
+<br>
 Or view my latest technical resume!
+<br>
 Resume: <a href="https://chrisnguyenhi.github.io/resume.pdf">2017 Technical Resume</a>
