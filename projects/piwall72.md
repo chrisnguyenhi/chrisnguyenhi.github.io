@@ -14,20 +14,21 @@ summary: An inexpensive, 72" automated video wall system using six LG 24" monito
 ---
 <img class class="ui medium right floated rounded image" src="../images/piwall2.jpg">
 
-During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis. This project allowed me to work with embedded systems such as the Raspberry Pi and IP/TCP networking. This system can be used as a horizontal video wall system and a vertical video wall system.
-In addition, I gained more knowledge about Shell scripting and the idea of automation.
+During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis. This project allowed me to work with embedded systems and IP/TCP networking. Additionally, I learned more about how useful Shell scripting is for automation. This system can be used as both a horizontally and vertically depending on the video content.
 
-The software supporting this is [Pi-Wall](https://github.com/vigsterkr/pi-wall), a open-source video wall software that allows Raspberry Pis to synchronize a video stream to a controller.
-I configured the software to expand from a 4-Wall system to a 6-Wall one spanning 72" with automated scripts to turn on the entire system from a controller Pi
-as opposed to turn every Pi on individually. 
+The software supporting this is [Pi-Wall](https://github.com/vigsterkr/pi-wall), a open-source video wall software that allows Raspberry Pis to synchronize a video stream from a controller. I configured the software to expand from a 4-Wall system to a 6-Wall one. Furthermore, I wrote Shell scripts for each individual Pi to automate the system. Users could turn on the entire system from one controller Pi that had the ability to SSH into the other tile Pis.
 
+<br>
 To create this 72" display, the following materials were used: 
 <br>
+<ui>
+<li>
 Seven [Raspberry Pi 3 Kits](http://www.vilros.com/raspberry-pi/raspberry-pi-kits/raspberry-pi-3-media-center-kit-black-case-edition.html) ($59.99 each)
-<br>
+</li><li>
 Six [24" LG Infinity Monitors with 2.5mm Bezels](http://www.lg.com/us/monitors/lg-24MP88HV-S-led-monitor) ($349.99 each)
-<br>
+</li><li>
 One [TP-Link 8-Port Gigabit Desktop Switch](http://www.tp-link.com/us/products/details/cat-5582_TL-SG1008D.html) ($24.99)
+</li></ui>
 <br>
 Compared to other [large-scale commerical video wall systems](http://www.focusedtechnology.com/video-wall.html) this 72" system is inexpensive and costs ~$2,600 to make. 
 <br>
@@ -36,15 +37,14 @@ Compared to other [large-scale commerical video wall systems](http://www.focused
 <br>
 
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
-After all of the Raspberry Pis installed the PiWall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to send a broadcast signage to the other tile Pis.
+After all of the Raspberry Pis installed the Pi-Wall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to broadcast the video stream to the other tile Pis within the network.
 
-Every Pi had a ``.piwall`` file that held the configuration for the size of the 72" system.
-Each tile Pi held a ``.pitile`` file to define where it was in the video wall system and a ``playTile.sh`` script that allowed it to capture a stream from the controller Pi.
+Every Pi had a ``.piwall`` file that held the tile measurements for the 72" system.
+Each tile Pi held a ``.pitile`` file to determine its position in the video wall and a ``playTile.sh`` script that allowed it to capture the video stream from the controller Pi.
 
-The controller Pi had an ``activateController.sh`` script that allowed it to broadcast the video stream across the network. 
-Additionally, the controller Pi held a ``sshWall`` file that allowed the controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
-Lastly, the controller Pi had a ``ActivateWall.sh`` script that enables the enter system to start playing on one-click. 
+The Controller Pi also held a ``sshWall`` file that allowed the Controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
+Lastly, the Controller Pi had a ``ActivateWall.sh`` script that enables the enter system to run with one-click. 
 
-If you want to learn more about this project, please check out the github link below!
+If you want to learn more my configurations for this project, please check out the github link below!
 
 Source: <a href="https://github.com/chrisnguyenhi/piwall72"><i class="large github icon"></i>Pi Wall 72</a>
