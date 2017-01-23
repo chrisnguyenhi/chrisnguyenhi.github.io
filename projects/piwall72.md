@@ -16,7 +16,7 @@ summary: An inexpensive, 72" automated video wall system using six LG 24" monito
 
 During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis. This project allowed me to work with embedded systems and IP/TCP networking. Additionally, I learned more about how useful Shell scripting is for automation. This system can be used as both a horizontally and vertically depending on the video content. 
 
-The software supporting this is [Pi-Wall](https://github.com/vigsterkr/pi-wall), a open-source video wall software that allows Raspberry Pis to synchronize a video stream from a controller. I configured the software to expand from a 4-Wall system to a 6-Wall one. Furthermore, I wrote Shell scripts for each individual Pi to automate the system. Users could easily turn on the entire video wall system from just accessing one controller Pi-- which was able to SSH into the other tile Pis.
+The software supporting this is [Pi-Wall](https://github.com/vigsterkr/pi-wall), a open-source video wall software that allowed multiple Raspberry Pis to synchronize a video stream from a controller. I configured the software to expand from a 4-Wall system to a 6-Wall one. Furthermore, I wrote Shell scripts for each individual Pi to automate the system. Users could easily turn on the entire video wall system from just accessing one controller Pi-- which was able to SSH into the other tile Pis.
 <br>
 <br>
 To create this 72" display, the following materials were used: 
