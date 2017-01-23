@@ -33,6 +33,7 @@ Compared to other [large-scale commerical video wall systems](http://www.focused
 <br>
 <br>
 <img class class="ui medium left floated rounded image" src="../images/piwall1.jpg">
+<br>
 
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
 After all of the Raspberry Pis installed the PiWall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to send a broadcast signage to the other tile Pis.
