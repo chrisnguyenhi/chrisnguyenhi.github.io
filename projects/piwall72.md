@@ -29,9 +29,10 @@ Six [24" LG Infinity Monitors with 2.5mm Bezels](http://www.lg.com/us/monitors/l
 <br>
 One [TP-Link 8-Port Gigabit Desktop Switch](http://www.tp-link.com/us/products/details/cat-5582_TL-SG1008D.html) ($24.99)
 <br>
-Compared to other [large-scale commerical video wall systems](http://www.focusedtechnology.com/video-wall.html) this 72" system is inexpensive and cost ~$2,600 to make. 
+Compared to other [large-scale commerical video wall systems](http://www.focusedtechnology.com/video-wall.html) this 72" system is inexpensive and costs ~$2,600 to make. 
 <br>
-<img class class="ui medium right floated rounded image" src="../images/piwall1.jpg">
+<br>
+<img class class="ui medium left floated rounded image" src="../images/piwall1.jpg">
 
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
 After all of the Raspberry Pis installed the PiWall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to send a broadcast signage to the other tile Pis.
