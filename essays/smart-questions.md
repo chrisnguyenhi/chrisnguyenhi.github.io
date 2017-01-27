@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: Smart Questions on Stack Overflow
 date: 2017-01-20
 labels:
   - Learning
@@ -25,10 +25,10 @@ Learning how to as effective and "smart" questions is a useful skill to have for
 
 I have had teachers and professors said to the class that "There's no such thing as a stupid question." 
 After reading an essay on smart questions by Eric Steven Raymond about [Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html), I feel like that
-statement is true today. There are no such thing as a stupid question-- Because the only questions that should be asked are smart questions! 
+statement is true today. There are no such thing as a stupid question-- Because the only questions that should be asked are "smart" questions! 
 
 ### So what is a "smart question?"
-To put it simply, a smart question is one that fits in all of the following:
+To put it simply, a smart question on Stack Overflow and any programming-relate forum is one that accomplishes all of the following:
 <br>
 -Throughly checked 
 <br>
@@ -46,7 +46,7 @@ Make sure your question is clear and concise. A good example of this would be so
 <br>
 When asking a question regarding a software or hardware issue, it is important to include the section of code that is causing the error or the machine configurations. It is also good to mention what goals or requirements that you are trying to fulfill. Allowing someone to see your code makes it easier for him or her to diagnose the problem. You can't expect someone to fix a car if they can't see what's under the hood. 
 
-### Here is an example of a smart question
+## An example of a smart question
 <img src="../images/smart.png">
 <br>
 <br>
@@ -56,43 +56,47 @@ When asking a question regarding a software or hardware issue, it is important t
 3) Also note that it is on the correct type of forum and has the correct tags: "C++" and "Java" <br>
 4) The poster's code is clearly visible and well-documented to explain his or her thought process. It also allows for others to toy with the poster's code and report back their observations and findings. 
 <br>
-What is interesting about this questions is that it yielded many responses and smart answers: <br>
+What is interesting about this questions is that it yielded many responses and smart answers: <br><br>
 <img src="../images/smartanswer.png">
 <br>
-### Why is this a smart answers?
-
-
-
--end
-
-Every programmer chooses to use a specific language for a reason whether it their level of comfort or the open-source libraries available for a specific language, so I won't make the argument of why one is better than the other. What I will talk about is how JavaScript is different to me. 
-
-One of key comparisons that people make with JavaScript with how different it is to Java. The first thing that sticks out to me is declaring variables.
-
-In Java, declaring a string and an integer looks like this:
+### Why does this have smart answer?
+Many answers, especially the most up-voted answer, accomplishes a variety of different things in this thread. <br><br>
+1) The answers to this question provides reasoning. Aside from saying (branch prediction)[https://en.wikipedia.org/wiki/Branch_predictor] is the reason for why processing speed for arrays are different, the top-rated answer also explains the phenomenon in laymans terms before going to the actual code and logic behind branch prediction. <br>
+2) The answers to this question often gives alternative solutions and test cases as to how performance can differ from unsorted arrays and sorted arrays. These are smart answers because they allow the question poster to dig deeper and research this topic further. <br>
 <br>
-```
-int myInt = 10;
-String myString = "This is Java.";
-```
-<br>
-While doing the same thing in JavaScript looks like this: 
-<br>
-```
-let myInt = 10;
-let myString = "This is JavaScript."
-```
-<br>
-Notice how in Java, the variables need to be specified as a String and an int while in JavaScript, we can use let for both a string and an integer. As a programmer who started off with C and Java, this is mindblowing (though I guess the people who started off with [Fortran](http://www.fortran.com/) felt the same way when they first tried Java). 
+Overall, this question was fantastic. Not only was it clear and provided some insight into what the person who asked that question was thinking but it also gave room for discussion. I believe that the person who asked the question definitely got a lot more information than he or she expected and so did others who were curious about the subject of branch prediction.
+<br><br>
+With that being said, let's look at a "not-so-smart" question... 
 
-In a way, being able to declare variables like this is pretty cool because it allows the programmer to skip the small details and focus on the logic of their code. The only thing they would have to worry about is whether or not their variables are ``const`` (constants) or not. As a side note, you'll probably see a lot of JavaScript code online using ``var`` as opposed to ``const`` or ``let`` and this is can end up with errors in the long run according to the [AirBnB JavaScript guide](https://github.com/airbnb/javascript#types).
+## An example of a "not-so-smart" question
+<img src="../images/dumb.png">
+[Here](http://stackoverflow.com/questions/41883036/still-getting-fatal-exception-after-many-code-i-have-tested) is a not-so-smart question. At first glance, what can we tell from this question? Based from what I can decipher from the header, the program doesn't work. Aside from the fact that the question is tagged "Java" and "Android," we can't tell much from it. 
+<br>
+So why isn't it a smart question?
+<br>
+1) Obviously the header is horrible. The header mentions fatal exception but does not go to explain which exception is causing the problem. <br>
+2) The code. Instead of using typing actual code, the question poster attached two pictures of the code... On his or her computer screen... Taken from a phone. <br>
+Not only is this highly unprofessional but the fact that ONE OF THE PICTURES ARE SIDEWAYS implies that fact that the question poster is not even serious about the work he or she is doing. Posts like these are often ignored and flamed on.<br>
+3) The background info. Although we can see that the question poster is doing work in Java and Android Studio, even with our heads rotated to the left, we still do not have enough information to diagnose the problem. We know that it is a fatal error but which one? Which Android Studio version is he or she using? What is he or she trying to do or make? <br>
+It's vagueness like this that detracts people from commenting which prevents the problem from being solved. 
+<br><br>
+It's questions like these that lead to "not-so-smart" answers.
+<img src="../images/dumbanswer.png">
+### An example of "not-so-smart" answers
+Why are these answers not the best? Well, to be frank, the question poster kind of had these coming to him or her when he or she decided to post two actual photos of the code vs. copy-pasting it to the question or taking a screenshot. <br>
+<br> So why are these answers and replies not-so-smart? <br>
+1) The first reason is the only attempt to solve the problem is unclear. Sure this error might be caused by one variable bug, but the person who answered this did not give the question poster any insight to fix this problem or prevent this problem from happening again in the future. It just implies to the question poster that there will always be someone on Stack Overflow to give him or her an answer. <br>
+2) Based on the question poster's reply, it seems that he or she thinks Stack Overflow is a helpdesk service. Again, the question posted had it coming to him or her but the fact that he or she thinks that you need to pay a subscription is beyond me. The question poster mentioning that ended up with 2/3 people that made any attempt at communication to leave and not make any further interaction. <br>
+<br>
+## So what? 
+The goal of this essay is to not say that one way of asking a question is better than the other, but to provide insight on what types of questions are "smart" questions that are likely to generate some discussion and solution. <br>
+The goal of a question poster should not be to get an answer and move on-- No. It should be a learning experience that he or she can build on and become stronger in the future. <br> 
+Those answering questions should not go directly to the answer but rather provide some insight on the problem and explain why the issue is happening help the question poster to grow and study up on a concept or problem that he or she needs to learn more about. <br> 
+## So how does this relate to Software Engineering? 
+It is imperative for software engineers to be able to ask questions in a "smart" way. Being clear and concise about the question while showing initiative to diagnose the root of the problem is a valuable skill to have. As a person who believes in user-centered design, I think it is important for engineers to communicate effectively about software and hardware and being able to explain a problem to someone is part of it. 
+
+
+
+
 
 ## JavaScript in ICS 314 (Software Engineering)
-
-Although I have done work with JavaScript in the past by using several JavaScript-supported APIs, [ICS 314](http://courses.ics.hawaii.edu/ics314s17/index.html) was my first time formally learning the language in a classroom setting. From my first week in the class, I learned how to do a lot of new things in JavaScript such as creating an object and accessing its properties. Being able to quickly add a property to an object without making a new one with new parameters was also something new to me. 
-
-In ICS 314, there is a WOD (Work Out of the Day) every week where students are challenged to code a solution to a problem within a certain amount of time-- something known as "Athletic Software Engineering." I enjoy doing WODs because it is good practice for future interviews and it gives me practice in a programming language I am learning. This style of learning may be a little stressful but it is enjoyable because it challenges me to understand a problem and find the best optimal solution-- much like those problems found on [LeetCode](https://leetcode.com/problemset/draft/) which sometimes show up on actual tech interviews. 
-
-## Conclusion: Is JavaScript Good or Bad?
-
-JavaScript is pretty great. The best part of it to me is being able to easily declare variables and access properties inside an object. JavaScript also has a variety of different uses from web development to game development. I remember an IBM recruiter at a career fair telling me to put JavaScript before Java on my resume because a lot of companies nowadays are looking for JavaScript. From a Software Engineering perspective, I feel that JavaScript has room to grow. It is a great language that can interact with other languages such as PHP and HTML. From my knowledge, I can't see anyone progamming applications to do things like contour detection or train a classifer but it seems to be getting on that level since people are doing things like [binding OpenCV](https://github.com/peterbraden/node-opencv) or making a [Deep Learning library](http://cs.stanford.edu/people/karpathy/convnetjs/). JavaScript is something I will definitely continue to learn.
