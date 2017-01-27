@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Smart Questions on Stack Overflow
-date: 2017-01-20
+date: 2017-01-26
 labels:
   - Learning
   - Software Engineering
@@ -89,13 +89,14 @@ It's vagueness like this that detracts people from commenting which prevents the
 It's questions like these that lead to "not-so-smart" answers.
 <img src="../images/dumbanswer.png">
 
+As yo can see these aren't that great. 
+
 ## An example of "not-so-smart" answers
 
 Why are these answers not the best? Well, to be frank, the question poster kind of had these coming to him or her when he or she decided to post two actual photos of the code vs. copy-pasting it to the question or taking a screenshot. <br>
 <br> So why are these answers and replies not-so-smart? <br><br>
 1) The first reason is the only attempt to solve the problem is unclear. Sure this error might be caused by one variable bug, but the person who answered this did not give the question poster any insight to fix this problem or prevent this problem from happening again in the future. It just implies to the question poster that there will always be someone on Stack Overflow to give him or her an answer. <br><br>
 2) Based on the question poster's reply, it seems that he or she thinks Stack Overflow is a helpdesk service. Again, the question posted had it coming to him or her but the fact that he or she thinks that you need to pay a subscription is beyond me. The question poster mentioning that ended up with 2/3 people that made any attempt at communication to leave and not make any further interaction. <br><br>
-<br>
 
 ## So what? 
 
