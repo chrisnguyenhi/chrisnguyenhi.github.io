@@ -51,7 +51,9 @@ When asking a question regarding a software or hardware issue, it is important t
 
 # Here is an example of a smart question
 
-<img class="ui medium left floated image" src="../images/smart.png">
+<img src="../images/smart.png">
+<br>
+<br>
 
 
 
