@@ -63,9 +63,9 @@ What is interesting about this questions is that it yielded many responses and s
 <img src="../images/smartanswer.png">
 <br>
 
-## Why does this have smart answer?
+## Why are these smart answers?
 
-Many answers, especially the most up-voted answer, accomplishes a variety of different things in this thread. <br><br>
+Many answers, especially the most up-voted answer in this thread, accomplishes a variety of different things in this thread. <br><br>
 1) The answers to this question provides reasoning. Aside from saying (branch prediction)[https://en.wikipedia.org/wiki/Branch_predictor] is the reason for why processing speed for arrays are different, the top-rated answer also explains the phenomenon in laymans terms before going to the actual code and logic behind branch prediction. <br><br>
 2) The answers to this question often gives alternative solutions and test cases as to how performance can differ from unsorted arrays and sorted arrays. These are smart answers because they allow the question poster to dig deeper and research this topic further. <br>
 <br>
@@ -91,7 +91,7 @@ It's questions like these that lead to "not-so-smart" answers.
 
 As yo can see these aren't that great. 
 
-## An example of "not-so-smart" answers
+## Why are these "not-so-smart" answers?
 
 Why are these answers not the best? Well, to be frank, the question poster kind of had these coming to him or her when he or she decided to post two actual photos of the code vs. copy-pasting it to the question or taking a screenshot. <br>
 <br> So why are these answers and replies not-so-smart? <br><br>
