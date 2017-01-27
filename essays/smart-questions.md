@@ -28,16 +28,30 @@ After reading an essay on smart questions by Eric Steven Raymond about [Smart Qu
 statement is true today. There are no such thing as a stupid question-- Because the only questions that should be asked are smart questions! 
 
 ### So what is a "smart question?"
-To put it simply, a smart question is one that fit in all of the following:
+To put it simply, a smart question is one that fits in all of the following:
+<br><br>
 -Throughly checked 
-Before you asked said question, you should have taken the initiative to solve it yourself and checked online resources) 
-
+<br>
+Before you asking a question, you should have taken the initiative to solve it yourself and checked online resources-- Otherwise you may be ignored or subjected to rather rude responses.  
+<br>
+<br>
 -Put on the correct forum 
+<br>
 Questions that are put on the wrong board or category are highly likely to be ignored. Plus, you wouldn't want to ask something like: "What medication should I take for backpain?" to a chef as opposed to asking a doctor. 
-
+<br>
+<br>
 -Uses a meaningful, clear subject header
+<br>
 Make sure your question is clear and concise. A good example of this would be something that highlights an issue on a specific platform or framework as opposed to "HELP! Program doesn't work." A subject header should be clear and meaningful so that the reader can have some thoughts regarding the problem before reading the full story. 
+<br>
+<br>
+-Easy to access and informative
+<br>
+When asking a question regarding a software or hardware issue, it is important to include the section of code that is causing the error or the machine configurations. It is also good to mention what goals or requirements that you are trying to fulfill. Allowing someone to see your code makes it easier for him or her to diagnose the problem. You can't expect someone to fix a car if they can't see what's under the hood. 
 
+# Here is an example of a smart question
+
+<img class="ui medium left floated image" src="../images/smart.png">
 
 
 
