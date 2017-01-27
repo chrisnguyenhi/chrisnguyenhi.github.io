@@ -27,8 +27,22 @@ I have had teachers and professors said to the class that "There's no such thing
 After reading an essay on smart questions by Eric Steven Raymond about [Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html), I feel like that
 statement is true today. There are no such thing as a stupid question-- Because the only questions that should be asked are smart questions! 
 
-So what is a "smart question?"
-To put it simply 
+### So what is a "smart question?"
+To put it simply, a smart question is one that fit in all of the following:
+-Throughly checked 
+Before you asked said question, you should have taken the initiative to solve it yourself and checked online resources) 
+
+-Put on the correct forum 
+Questions that are put on the wrong board or category are highly likely to be ignored. Plus, you wouldn't want to ask something like: "What medication should I take for backpain?" to a chef as opposed to asking a doctor. 
+
+-Uses a meaningful, clear subject header
+Make sure your question is clear and concise. A good example of this would be something that highlights an issue on a specific platform or framework as opposed to "HELP! Program doesn't work." A subject header should be clear and meaningful so that the reader can have some thoughts regarding the problem before reading the full story. 
+
+
+
+
+
+-end
 
 Every programmer chooses to use a specific language for a reason whether it their level of comfort or the open-source libraries available for a specific language, so I won't make the argument of why one is better than the other. What I will talk about is how JavaScript is different to me. 
 
