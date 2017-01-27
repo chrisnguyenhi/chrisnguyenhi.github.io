@@ -28,6 +28,7 @@ After reading an essay on smart questions by Eric Steven Raymond about [Smart Qu
 statement is true today. There are no such thing as a stupid question-- Because the only questions that should be asked are "smart" questions! <br>
 
 ## So what is a "smart question?"
+
 To put it simply, a smart question on Stack Overflow and any programming-relate forum is one that accomplishes all of the following:
 <br><br>
 1) Throughly checked 
@@ -46,7 +47,9 @@ Make sure your question is clear and concise. A good example of this would be so
 <br>
 When asking a question regarding a software or hardware issue, it is important to include the section of code that is causing the error or the machine configurations. It is also good to mention what goals or requirements that you are trying to fulfill. Allowing someone to see your code makes it easier for him or her to diagnose the problem. You can't expect someone to fix a car if they can't see what's under the hood. 
 <br>
+
 ## An example of a smart question
+
 <img src="../images/smart.png">
 <br>
 <br>
@@ -59,7 +62,9 @@ When asking a question regarding a software or hardware issue, it is important t
 What is interesting about this questions is that it yielded many responses and smart answers: <br><br>
 <img src="../images/smartanswer.png">
 <br>
+
 ## Why does this have smart answer?
+
 Many answers, especially the most up-voted answer, accomplishes a variety of different things in this thread. <br><br>
 1) The answers to this question provides reasoning. Aside from saying (branch prediction)[https://en.wikipedia.org/wiki/Branch_predictor] is the reason for why processing speed for arrays are different, the top-rated answer also explains the phenomenon in laymans terms before going to the actual code and logic behind branch prediction. <br><br>
 2) The answers to this question often gives alternative solutions and test cases as to how performance can differ from unsorted arrays and sorted arrays. These are smart answers because they allow the question poster to dig deeper and research this topic further. <br>
@@ -69,6 +74,7 @@ Overall, this question was fantastic. Not only was it clear and provided some in
 With that being said, let's look at a "not-so-smart" question... 
 
 ## An example of a "not-so-smart" question
+
 <img src="../images/dumb.png">
 [Here](http://stackoverflow.com/questions/41883036/still-getting-fatal-exception-after-many-code-i-have-tested) is a not-so-smart question. At first glance, what can we tell from this question? Based from what I can decipher from the header, the program doesn't work. Aside from the fact that the question is tagged "Java" and "Android," we can't tell much from it. 
 <br>
@@ -81,18 +87,24 @@ Not only is this highly unprofessional but the fact that ONE OF THE PICTURES ARE
 It's vagueness like this that detracts people from commenting which prevents the problem from being solved. 
 <br><br>
 It's questions like these that lead to "not-so-smart" answers.
-<img src="../images/dumbanswer.png"><br>
+<img src="../images/dumbanswer.png">
+
 ## An example of "not-so-smart" answers
+
 Why are these answers not the best? Well, to be frank, the question poster kind of had these coming to him or her when he or she decided to post two actual photos of the code vs. copy-pasting it to the question or taking a screenshot. <br>
 <br> So why are these answers and replies not-so-smart? <br><br>
 1) The first reason is the only attempt to solve the problem is unclear. Sure this error might be caused by one variable bug, but the person who answered this did not give the question poster any insight to fix this problem or prevent this problem from happening again in the future. It just implies to the question poster that there will always be someone on Stack Overflow to give him or her an answer. <br><br>
 2) Based on the question poster's reply, it seems that he or she thinks Stack Overflow is a helpdesk service. Again, the question posted had it coming to him or her but the fact that he or she thinks that you need to pay a subscription is beyond me. The question poster mentioning that ended up with 2/3 people that made any attempt at communication to leave and not make any further interaction. <br><br>
 <br>
+
 ## So what? 
+
 The goal of this essay is to not say that one way of asking a question is better than the other, but to provide insight on what types of questions are "smart" questions that are likely to generate some discussion and solution. <br>
 The goal of a question poster should not be to get an answer and move on-- No. It should be a learning experience that he or she can build on and become stronger in the future. <br><br>
 People answering questions on Stack Overflow should not go directly to the answer but rather provide some insight on the problem and explain why the issue is happening help the question poster to grow and study up on a concept or problem that he or she needs to learn more about. <br><br>
 After browsing questions of both the "smart" and "not-so-smart" range based on Eric Steven Raymond's methodogy, I believe that I learned how to be more clear and concise about the questions I ask in the future. <br><br>
+
 ## So how does this relate to Software Engineering? 
+
 It is imperative for software engineers to be able to ask questions in a "smart" way. Being clear and concise about the question while showing initiative to diagnose the root of the problem is a valuable skill to have. <br><br>As a person who believes in user-centered design, I think it is important for engineers to communicate effectively about software and hardware and being able to explain a problem to someone is part of it. <br><br>
 You can't expect a doctor to fix you if you can't tell him what's wrong. 
