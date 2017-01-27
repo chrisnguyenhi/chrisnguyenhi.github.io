@@ -29,32 +29,37 @@ statement is true today. There are no such thing as a stupid question-- Because 
 
 ### So what is a "smart question?"
 To put it simply, a smart question is one that fits in all of the following:
-<br><br>
+<br>
 -Throughly checked 
 <br>
 Before you asking a question, you should have taken the initiative to solve it yourself and checked online resources-- Otherwise you may be ignored or subjected to rather rude responses.  
-<br>
 <br>
 -Put on the correct forum 
 <br>
 Questions that are put on the wrong board or category are highly likely to be ignored. Plus, you wouldn't want to ask something like: "What medication should I take for backpain?" to a chef as opposed to asking a doctor. 
 <br>
-<br>
 -Uses a meaningful, clear subject header
 <br>
 Make sure your question is clear and concise. A good example of this would be something that highlights an issue on a specific platform or framework as opposed to "HELP! Program doesn't work." A subject header should be clear and meaningful so that the reader can have some thoughts regarding the problem before reading the full story. 
-<br>
 <br>
 -Easy to access and informative
 <br>
 When asking a question regarding a software or hardware issue, it is important to include the section of code that is causing the error or the machine configurations. It is also good to mention what goals or requirements that you are trying to fulfill. Allowing someone to see your code makes it easier for him or her to diagnose the problem. You can't expect someone to fix a car if they can't see what's under the hood. 
 
-# Here is an example of a smart question
-
+### Here is an example of a smart question
 <img src="../images/smart.png">
 <br>
 <br>
-
+[This question](http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array/11227902#11227902) was taken from Stack Overflow and asks why is it faster to process a sorted array vs an unsorted array. This is a smart question for many reasons: <br>
+1) Because the subject header is clear and concise about what the problem is. <br>
+2) The original poster took the initiative to do some research on testing on his or her side. Both in C++ and Java. <br>
+3) Also note that it is on the correct type of forum and has the correct tags: "C++" and "Java" <br>
+4) The poster's code is clearly visible and well-documented to explain his or her thought process. It also allows for others to toy with the poster's code and report back their observations and findings. 
+<br>
+What is interesting about this questions is that it yielded many responses and smart answers: <br>
+<img src="../images/smartanswer.png">
+<br>
+### Why is this a smart answers?
 
 
 
