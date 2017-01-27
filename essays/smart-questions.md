@@ -92,11 +92,7 @@ Why are these answers not the best? Well, to be frank, the question poster kind 
 The goal of this essay is to not say that one way of asking a question is better than the other, but to provide insight on what types of questions are "smart" questions that are likely to generate some discussion and solution. <br>
 The goal of a question poster should not be to get an answer and move on-- No. It should be a learning experience that he or she can build on and become stronger in the future. <br> 
 Those answering questions should not go directly to the answer but rather provide some insight on the problem and explain why the issue is happening help the question poster to grow and study up on a concept or problem that he or she needs to learn more about. <br> 
+After browsing questions of both the "smart" and "not-so-smart" range based on Eric Steven Raymond's methodogy, I believe that I learned how to be more clear and concise about the questions I ask in the future. 
 ## So how does this relate to Software Engineering? 
-It is imperative for software engineers to be able to ask questions in a "smart" way. Being clear and concise about the question while showing initiative to diagnose the root of the problem is a valuable skill to have. As a person who believes in user-centered design, I think it is important for engineers to communicate effectively about software and hardware and being able to explain a problem to someone is part of it. 
-
-
-
-
-
-## JavaScript in ICS 314 (Software Engineering)
+It is imperative for software engineers to be able to ask questions in a "smart" way. Being clear and concise about the question while showing initiative to diagnose the root of the problem is a valuable skill to have. As a person who believes in user-centered design, I think it is important for engineers to communicate effectively about software and hardware and being able to explain a problem to someone is part of it. <br>
+You can't expect a doctor to fix you if you can't tell him what's wrong. 
