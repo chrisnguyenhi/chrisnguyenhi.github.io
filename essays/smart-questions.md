@@ -66,7 +66,7 @@ What is interesting about this questions is that it yielded many responses and s
 ## Why are these smart answers?
 
 Many answers, especially the most up-voted answer in this thread, accomplishes a variety of different things in this thread. <br><br>
-1) The answers to this question provides reasoning. Aside from saying (branch prediction)[https://en.wikipedia.org/wiki/Branch_predictor] is the reason for why processing speed for arrays are different, the top-rated answer also explains the phenomenon in laymans terms before going to the actual code and logic behind branch prediction. <br><br>
+1) The answers to this question provides reasoning. Aside from saying branch prediction is the reason for why processing speed for arrays are different, the top-rated answer also explains the phenomenon in laymans terms before going to the actual code and logic behind it. <br><br>
 2) The answers to this question often gives alternative solutions and test cases as to how performance can differ from unsorted arrays and sorted arrays. These are smart answers because they allow the question poster to dig deeper and research this topic further. <br>
 <br>
 Overall, this question was fantastic. Not only was it clear and provided some insight into what the person who asked that question was thinking but it also gave room for discussion. I believe that the person who asked the question definitely got a lot more information than he or she expected and so did others who were curious about the subject of branch prediction.
