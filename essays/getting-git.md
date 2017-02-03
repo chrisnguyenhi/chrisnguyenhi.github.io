@@ -24,7 +24,7 @@ From using Github for two years, I have never had any problems using configurati
 <br><br>
 Although it is easy to uncommit changes and roll back to a previous commit like nothing happened, it becomes a huge hassle to do so on large scale development teams. While using Git on the command is great for complex operations, [Github Desktop](https://desktop.github.com/) provides an easy way for users to merge and deploy projects on a GUI. 
 
-## Is Github popular because of git? Or is git popular because of Github?
+## Does Github make git? Or does git make Github?
 
 Many people often get the misconception that git and Github as the same thing-- myself included-- but they are two things that work together to make software development better. [git](https://git-scm.com/) is a open source version control system. Its a tool to manage code. Github is a hosting service for repositories for projects that use git. Aside from Github, there are many [other](https://www.git-tower.com/blog/git-hosting-services-compared/) hosting services that use git. 
 <br><br>
