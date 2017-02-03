@@ -23,6 +23,7 @@ Configuration management is awesome. It allows anyone to work on their code from
 From using Github for two years, I have never had any problems using configuration management aside from pushing into the wrong branch. Know which the correct branch to push a collaborative project to is important. 
 <br><br>
 Although it is easy to uncommit changes and roll back to a previous commit like nothing happened, it becomes a huge hassle to do so on large scale development teams. While using Git on the command is great for complex operations, [Github Desktop](https://desktop.github.com/) provides an easy way for users to merge and deploy projects on a GUI. 
+<br><br>
 
 ## Does Github make git? Or does git make Github?
 
