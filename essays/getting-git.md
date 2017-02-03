@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Configuration Management
+title: Getting Git
 date: 2017-01-31
 labels:
   - Software Engineering
