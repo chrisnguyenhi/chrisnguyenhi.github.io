@@ -19,20 +19,21 @@ As someone who has used the configuration management in the form of Github for t
 <br><br>
 Configuration management is awesome. It allows anyone to work on their code from anywhere. I could be working in the US and push my code to Github and then work on it three weeks later in Vietnam. It's just that awesome. Because of Github's huge user base and its commitment to open-source development, it has become an industry standard. Nowadays, every resume has Github profile on it-- from seasoned professionals to young college students.
 
-<img class="ui medium left floated image" src="../images/git.png">
+<img class="ui medium left floated image" src="../images/repo.png">
 From my personal experience, I have never had any problems using configuration management aside from pushing into the wrong branch. Know which the correct branch to push a collaborative project to is important. 
 <br><br>
 Although it is easy to uncommit changes and roll back to a previous commit like nothing happened, it becomes a huge hassle to do so on large scale development teams. While using Git on the command is great for complex operations, [Github Desktop](https://desktop.github.com/) provides an easy way for users to merge and deploy projects on a GUI. 
 
 ## Github as a Brand
-So the real question is: Is Github popular because of git? Or is git popular because of Github? 
+So the real question is: <strong> Is Github popular because of git? Or is git popular because of Github? </strong>
 <br><br>
 For starters, [git](https://git-scm.com/) is a open source version control system. Its a tool to manage code. Github is a hosting service for repositories for projects that use git. Aside from Github, there are many [other](https://www.git-tower.com/blog/git-hosting-services-compared/) hosting services that use git. 
 <br><br>
 So back to the real question. Is Github popular because of git? Or is git popular because of Github? <br><br>
-I would say git is popular because of Github. From a marketing standpoint, I believe that Github makes an awesome job of advertising their brand. <br>
-By having "git" in their name, they definitely convey the point that they are a git hosting service. <br>
-It is easy to make the misconception that git and Github are the same thing but they are not. <br>
+I would say git is popular because of Github. From a marketing standpoint, I believe that Github makes an awesome job of advertising their brand.
+By having "git" in their name, they definitely convey the point that they are a git hosting service.
+It is easy to make the misconception that git and Github are the same thing but they are not. 
+<br><br>
 If it were not for Github advertising their brands like going out to university career fairs and having a [cool looking mascot](https://github.com/logos), git and Github would not be as popular as they are today and there might be [another version control system](https://www.g2crowd.com/categories/version-control-systems) being an industry standard.
 <br>
 
