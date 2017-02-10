@@ -19,7 +19,7 @@ For example, in both Airbnb's and Google's JavaScript style guides, it the use o
 
 ## How to use coding standards?
 For JavaScript, a coding standard and style guide's rules can be implemented and "enforced" by linting utilities such as [ESLint](http://eslint.org/) and [JSHint](http://jshint.com/). Whenever a piece of code doesn't follow a set style guide's rules, an error or "red-swiggly" will appear.<br><br>
-<img class="ui medium right floated image" src="../images/lint.png">
+<img src="../images/lint.png">
 These linting utilities can be thrown onto an IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/) or a text editor like [Sublime Text](https://www.sublimetext.com/). Some IDEs won't allow the code to run if it does not follow the specified coding standard.<br><br>
 
 ## How helpful are coding standards?
