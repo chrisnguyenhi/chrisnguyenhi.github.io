@@ -9,9 +9,9 @@ labels:
   - JavaScript
   - Coding 
 ---
-Since I was a freshmen in Computer Science, I've always wondered how people coded "professionally." To elaborate on this question, I was curious as to how the coding conventions I did in school differs from the coding style from professional software engineers and professional software developers. <br><br>
-I knew that it was important to comment my code so that others see what my methods return and whatnot. I knew that for Java, constants should be in CAPS (like ```public static final int SPEED```), and I knew that all "normal" variables start with lower case (like ```public int conversionFactor```). <br><br>
-It wasn't until I took ICS 314 (Software Engineering) that I found out about "coding standards" or the new, "cool" way to code (and by cool, I mean the people that work at [Google](https://github.com/google/styleguide) and in other Fortune 500 companies). Being able to appeal to industry standards is definitely something I think is important for any Software Engineer or Software Developer. 
+Since I was a freshmen in Computer Science, I've always wondered how people coded "professionally." To elaborate on this question, I was curious as to how the coding conventions I did in school differs from the coding style that professional software engineers and professional software developers have. <br><br>
+I knew that it was important to comment my code so that others see what my methods return and whatnot. I also knew that for Java, constants should be in [ALL-CAPS](https://www.java-tips.org/java-se-tips-100019/24-java-lang/802-how-do-i-declare-a-constant-in-java.html) (like ```public static final int SPEED```), and I knew that all "normal" variables start with lower case (like ```public int accelerationRate```). <br><br>
+It wasn't until I took ICS 314 (Software Engineering) that I found out about "coding standards" or as I see it: the new, "cool" way to code (and by cool, I mean way people that work at [Google](https://github.com/google/styleguide) and other Fortune 500 companies code). Being able to appeal to industry standards is definitely something I think is important for any Software Engineer or Software Developer. 
 
 ## What are "coding standards"?
 <img class="ui medium right floated image" src="../images/standards.png">
