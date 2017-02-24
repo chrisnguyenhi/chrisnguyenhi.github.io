@@ -14,7 +14,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/ui.png">
 
-UI Frameworks definitely make life a lot easier. For a developer like me who does not prefer to spend hours and hours on resizing circles or creating icons on Photoshop, UI Frameworks are the way to go. Some popular UI Frameworks include [Bootstrap](http://getbootstrap.com/2.3.2/), [Materialize](http://materializecss.com/), and [Semantic UI](http://semantic-ui.com/). To start talking about UI Frameworks, it is important to talk about what an UI, what a UI framework is, and what's great about UI Frameworks (in this case for the front-end). 
+UI Frameworks definitely make life a lot easier. For a developer like me who does not prefer to spend hours and hours on resizing circles or creating icons on Photoshop, UI Frameworks are the way to go. Some popular UI Frameworks include [Twitter Bootstrap](http://getbootstrap.com/2.3.2/), [Materialize CSS](http://materializecss.com/), and [Semantic UI](http://semantic-ui.com/). To start talking about UI Frameworks, it is important to talk about what an UI, what a UI framework is, and what's great about UI Frameworks (in this case for the front-end). Actually, this entire page and site is powered by the UI framework, Semantic UI. 
 <br><br>
 
 ## So what UI? <br>
