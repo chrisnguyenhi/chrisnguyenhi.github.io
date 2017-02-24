@@ -36,6 +36,10 @@ One of the things that Semantic UI is known for is natural language. The classes
 ## Learning UI Frameworks 
 Like learning a new library or a new programming language, learning a new framework can be extremely hard. It is definitely a struggle to find out which methods lead to what, but so far Semantic UI's idea of having classes using natural language syntax makes it a lot easier to use this framework to its full (or 3/4's) capacity.  
 <br><br>
+So why take the time to learn a UI framework? Well, you could argue the time that it takes for a developer to spend on learning a new framework could be the same or less than the time it takes to do the same thing using just pure HTML, CSS, and JavaScript. So ultimately, it all depends on the person. Personally, I am not skilled in Photoshop nor want to muck up things in my stylesheet to fix up an icon or image, so for me, I would want to take the time to learn a UI framework to use less Photoshop as possible.
+<br><br>
+As a software engineering student that has used Semantic UI and heavy HTML, CSS, and JavaScript in the past for front-end development, I can see why UI frameworks exist. Given the opportunity, I would definitely want to spend the least amount of time as possible on creating a user interface and still want it to look cool and engaging. Semantic UI is something that is definitely useful for front-end development due to how "readable" and "straightforward" the code is thanks to natural language.
+
 
 ##
 
