@@ -25,13 +25,14 @@ Several UI frameworks ui frameworks actually have built-in code for icons to all
 
 ## What is Semantic UI?
 
-I have rotated through frameworks here and there but I have never used Semantic UI before taking ICS 314 (Software Engineering). Semantic UI from my experience is an easy-to-use UI framework for the front-end that allows for easy front-end development with its intuitive code base and natural language usage. It is also pretty easy to install on the [NPM](http://semantic-ui.com/introduction/getting-started.html).<br><br>
+I have rotated through frameworks here and there but I have never used Semantic UI before taking ICS 314 (Software Engineering). Semantic UI from my experience is an easy-to-use UI framework for the front-end that allows for easy front-end development with its intuitive code base and natural language usage. It is also pretty easy to install on the [NPM](http://semantic-ui.com/introduction/getting-started.html).
 
 ## What is this "natural language" you speak of?
 
-One of the things that Semantic UI is known for is natural language. The classes in Semantic UI uses syntax from natural languages like noun/modifier relationships, word order, and plurality to link concepts intuitively. If you want a button, you can just use the ```ui button``` class to create a button. 
+One of the things that Semantic UI is known for is natural language. The classes in Semantic UI uses syntax from natural languages like noun/modifier relationships, word order, and plurality to link concepts intuitively. If you want a button, you can just use the ```ui button``` class to create a button. Yep. It's just that easy. 
 
-<img class="ui medium left floated image" src="../images/natural.png">
+<img class="ui large left floated image" src="../images/natural.png">
+
 
 
 
