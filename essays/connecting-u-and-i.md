@@ -24,7 +24,7 @@ From the perspective of someone who is purely a software engineer or software de
 Several UI frameworks ui frameworks actually have built-in code for icons to allow users to make social media buttons easily without having the need to worry about resizing the icon on any external photo editor. With one line of code, someone can just make a Facebook icon or Amazon icon easily. The cool thing I have found with certain front-end UI frameworks is that some of them are mobile-responsive, so users will not need to worry about radically changing the content in their code and making three versions of the same site for a desktop computer, a smartphone and an iPad. 
 
 ## What is Semantic UI?
-<img class="ui medium right floated image" src="../images/semantic.png">
+<img class="ui small right floated image" src="../images/semantic.png">
 I have used a bunch of frameworks here and there but I have never used Semantic UI before taking ICS 314 (Software Engineering). Semantic UI from my experience is an easy-to-use UI framework for the front-end that allows for easy front-end development with its intuitive code base and natural language usage. It is also pretty easy to install on the [NPM](http://semantic-ui.com/introduction/getting-started.html).
 
 ## What is this "natural language" you speak of?
