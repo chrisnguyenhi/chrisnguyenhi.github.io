@@ -12,12 +12,12 @@ labels:
 
 ## Connecting U and I with UI Frameworks
 
-<img class="ui medium left floated image" src="../images/ui.png">
+<img class="ui large left floated image" src="../images/ui.png">
 
 UI Frameworks definitely make life a lot easier. For a developer like me who does not prefer to spend hours and hours on resizing circles or creating icons on Photoshop, UI Frameworks are the way to go. Some popular UI Frameworks include [Twitter Bootstrap](http://getbootstrap.com/2.3.2/), [Materialize CSS](http://materializecss.com/), and [Semantic UI](http://semantic-ui.com/). To start talking about UI Frameworks, it is important to talk about what an UI, what a UI framework is, and what's great about UI Frameworks (in this case for the front-end). Actually, this entire page and site is powered by the UI framework, Semantic UI. 
 <br><br>
 
-## So what UI? <br>
+## So what UI? 
 UI stands for User Interface. UIs are what allows the user and a computer system to interact with each other. Someone who is doing [User Interface Design]() implies that he or she is designing an interface that can allow users or clients to interfact with a system or software easily and intuitively. <br><br>
 
 ## So what are UI Frameworks? 
