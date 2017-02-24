@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Connecting U and I
+title: Connecting U and I with UI Frameworks
 date: 2017-02-23
 labels:
   - UI Frameworks
@@ -9,8 +9,6 @@ labels:
   - HTML
   - ICS314
 ---
-
-## Connecting U and I with UI Frameworks
 
 <img class="ui large left floated image" src="../images/ui.png">
 
@@ -23,11 +21,19 @@ UI stands for User Interface. UIs are what allows the user and a computer system
 The technical definition of a framework (or more specifically, a [software framework](http://info.cimetrix.com/blog/bid/22339/What-is-a-Software-Framework-And-why-should-you-like-em)) is similar to a library. A software library contains objects and methods that can be instantiated and used in a custom application. Of course, you need to know which objects to instantiate and which methods to call. A framework, allows the user to implement the objects and methods that are custom to his or her application and they are instantiated and invoked by the framework. This makes life way easier because instead of making objects and icons from scratch, a front-end UI framework can allow users to easily do things like resize images, rotate icons, or divide a page up to columns (or at least with Semantic UI anyway). <br><br>
 <img class="ui medium left floated image" src="../images/icons.png">
 From the perspective of someone who is purely a software engineer or software developer with minimal design experience, UI frameworks allow users to be able to roll out awesome looking websites and applications without the need to focus on CSS stylesheets too much. This gives software engineers and software developers more time to focus on the pure action, functionality, and features as opposed to worrying about resizing a background image on photoshop and throwing it into the code. <br><br>
-Several UI frameworks ui frameworks actually have built-in code for icons to allow users to make social media buttons easily without having the need to worry about resizing the icon on any external photo editor. With one line of code, someone can just make a Facebook icon or Amazon icon easily. The cool thing I have found with certain frontend UI frameworks is that some of them are mobile-responsive, so users will not need to worry about radically changing the content in their code and making three versions of the same site for a desktop computer, a smartphone and an iPad. 
+Several UI frameworks ui frameworks actually have built-in code for icons to allow users to make social media buttons easily without having the need to worry about resizing the icon on any external photo editor. With one line of code, someone can just make a Facebook icon or Amazon icon easily. The cool thing I have found with certain front-end UI frameworks is that some of them are mobile-responsive, so users will not need to worry about radically changing the content in their code and making three versions of the same site for a desktop computer, a smartphone and an iPad. 
 
-## Why JavaScript?
+## What is Semantic UI?
 
-Every programmer chooses to use a specific language for a reason whether it their level of comfort or the open-source libraries available for a specific language, so I won't make the argument of why one is better than the other. What I will talk about is how JavaScript is different to me. 
+I have rotated through frameworks here and there but I have never used Semantic UI before taking ICS 314 (Software Engineering). Semantic UI from my experience is an easy-to-use UI framework for the front-end that allows for easy front-end development with its intuitive code base and natural language usage. It is also pretty easy to install on the [NPM](http://semantic-ui.com/introduction/getting-started.html).<br><br>
+
+## What is this "natural language" you speak of?
+
+One of the things that Semantic UI is known for is natural language. The classes in Semantic UI uses syntax from natural languages like noun/modifier relationships, word order, and plurality to link concepts intuitively. If you want a button, you can just use the ```ui button``` class to create a button. 
+
+<img class="ui medium left floated image" src="../images/natural.png">
+
+
 
 One of key comparisons that people make with JavaScript with how different it is to Java. The first thing that sticks out to me is declaring variables.
 
