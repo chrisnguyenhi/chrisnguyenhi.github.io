@@ -29,9 +29,14 @@ I have rotated through frameworks here and there but I have never used Semantic 
 
 ## What is this "natural language" you speak of?
 
-One of the things that Semantic UI is known for is natural language. The classes in Semantic UI uses syntax from natural languages like noun/modifier relationships, word order, and plurality to link concepts intuitively. If you want a button, you can just use the ```ui button``` class to create a button. Yep. It's just that easy.<br><br>
+One of the things that Semantic UI is known for is natural language. The classes in Semantic UI uses syntax from natural languages like noun/modifier relationships, word order, and plurality to link concepts intuitively. If you want a button, you can just use the ```ui button``` class to create a button. Yep. It's just that easy. Plus it looks pretty nice.<br><br>
 <img class="ui large left floated image" src="../images/natural.png">
-Like learning a new library or a new programming language, learning a new framework can be extremely hard. It is definitely a struggle to find out which methods lead to what, but so far Semantic UI's idea of having classes using natural language syntax makes it a lot easier to use this framework to its full (or 3/4's) capacity. 
+
+## Learning UI Frameworks 
+Like learning a new library or a new programming language, learning a new framework can be extremely hard. It is definitely a struggle to find out which methods lead to what, but so far Semantic UI's idea of having classes using natural language syntax makes it a lot easier to use this framework to its full (or 3/4's) capacity.  
+<br><br>
+
+##
 
 
 
