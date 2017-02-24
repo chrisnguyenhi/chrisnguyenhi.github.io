@@ -10,7 +10,7 @@ labels:
   - ICS314
 ---
 
-#Connecting U and I with UI Frameworks
+## Connecting U and I with UI Frameworks
 
 <img class="ui medium left floated image" src="../images/ui.png">
 
