@@ -112,7 +112,7 @@
       "summary": "",
       "highlights": [
         "Refactored a mobile geographic information system (GIS) app that reduced the damage assessment time
-of disaster response units by 40% (4-5 hours) for using the ArcGIS API.",
+of disaster response units by 40% (4-5 hours) using the ArcGIS API.",
         "Developed a cross-platform Customer Relationship Management (CRM) app for iOS and Android using
 Cordova, Node.js, and Design Thinking to increase consultant and client interaction by 10%."
       ]
