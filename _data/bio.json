@@ -54,7 +54,7 @@
       "keywords": [
         "Node.js",
         "Cordova",
-        "Ionic",
+        "Meteor",
         "OpenCV",
         "MySQL",
         "Brunel",
@@ -85,7 +85,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Used open-source software and seven Raspberry Pis to create an inexpensive, automated 72-inch video wall system.",
+        "Built a 72” video wall system using open-source software, IP routing, and seven Raspberry Pis.",
+        "Wrote Shell scripts for automated stress testing of the video wall’s buffer size (MB) and heat tolerance.",
         "Conducted high-level network assessments for external clients and state agencies."
       ]
     },
@@ -98,8 +99,8 @@
       "summary": "",
       "highlights": [
         "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program.",
-        "Conducted extensive consumer research using AB testing and Google Analytics of user behavior.",
-        "Recruited and screened 100+ beta testers for Ditto's initial release."
+        "Followed the scrum agile development methodology on a team of 5 using Git version control.",
+        "Conducted extensive consumer research using AB testing and Google Analytics."
       ]
     },
      {
@@ -110,8 +111,10 @@
       "endDate": "2015-07-28",
       "summary": "",
       "highlights": [
-        "Customized a mobile geographic information system (GIS) application that reduced the damage assessment time of disaster response units by 40% (4-5 hours) using the ArcGIS API.",
-        "Developed a cross-platform Customer Relationship Management (CRM) mobile application using the Cordova framework to increase client and consultant interaction by 10%."
+        "Refactored a mobile geographic information system (GIS) app that reduced the damage assessment time
+of disaster response units by 40% (4-5 hours) for using the ArcGIS API.",
+        "Developed a cross-platform Customer Relationship Management (CRM) app for iOS and Android using
+Cordova, Node.js, and Design Thinking to increase consultant and client interaction by 10%."
       ]
     },
      {
@@ -123,7 +126,8 @@
       "summary": "Computer Science and STEM Mentor under Bebi Davis, PhD of the Kaimuki-McKinley-Roosevelt Complex Area",
       "highlights": [
         "Collaborated with 28 schools to develop a 21st-century STEM curriculum which sparked a 48% STEM interest among Hawaii high school students.",
-        "Mentored students in the Honolulu District and Hawaii State Science and Engineer Fair that totalled $15,000+ in awards from Chevron, IEEE, Intel and more.",
+        "Mentored students that totaled $15,000+ in agency awards at the Honolulu District, Hawaii State, and
+Intel International Science and Engineering Fair.",
         "Connected high school students with external mentors at the John A. Burns School of Medicine for research-based internships."
       ]
     }
