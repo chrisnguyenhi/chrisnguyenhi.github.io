@@ -14,6 +14,7 @@ For the past few weeks, I have been struck by many small bodies of matter from o
 Okay-- I am over exaggerating. The small body of matter was not from outspace but from cyberspace. Also, it didn't enter the earth's atmosphere, it entered my Macbook via the ```meteor npm install``` command.  
 
 ## What is Meteor
+<img class="ui small right floated image" src="../images/meteor-logo.png">
 Meteor is a popular open source platform for web, mobile, and desktop applications. It is great for beginning developers that are looking to take a dive into the world of fullstack development. Not only does Meteor allow the collaboration of front-end frameworks such as [Semantic UI](semantic-ui.com) but it also supports [MongoDB](https://www.mongodb.com/), a very popular NoSQL database. Although Meteor does sound like a walk in the park compared to other high-level, open-source platforms, it may be daunting for first-time developers as well as developers looking to intergrate a platform like Meteor with things like IntelliJ and ESLint or even beginners to Node.js. Personally, I have found Meteor to be easier than [React](https://facebook.github.io/react/) or [AngularJS](https://angularjs.org/).
 
 ## Starting a Meteor Shower
@@ -23,7 +24,6 @@ Setting up a Meteor project is relatively easy given the default templates and c
 Having a Windows based system was definitely a struggle. It was extremely difficult and irritating to see how my ```npm``` related commands didn't work on my HP Laptop. After hours of racking my head, I found that this issue I was having can be easily solved by using the Windows Powershell command line instead of using the standard cmd. This should not be a problem for the Mac Terminal-- Luckily, I have a Mac. Being able to install everything from the Terminal is definitely a blessing. 
 <br><br>
 There is definitely a learning curve when it comes to any open source platform. Some may be easy and straightforward, some may lack the proper documentation, and some may be just hard to install. Failed installations and missing dependencies are definitely a pet-peeve of mine and it sometimes deters me from learning a framework or technology-- However, being able to see a proper "run" or "compile" operation is definitely a reward in itself. 
-<img class="ui large right floated image" src="../images/meteor-logo.png">
 <br><br>
 
 ## Do not ignore .gitignore
