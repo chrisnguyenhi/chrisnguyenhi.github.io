@@ -6,7 +6,7 @@
     "email": "cnguyen7@hawaii.edu",
     "phone": "808-343-7029",
     "website": "https://chrisnguyenhi.github.io",
-    "summary": "Hi! I'm Chris! I am a junior at the University of Hawaii at Manoa majoring in Computer Science with a Minor in Business Administration. After graduating in Spring 2018, I hope to work in software development or project management.",
+    "summary": "Hi! I'm Chris! I am a rising senior at the University of Hawaii at Manoa majoring in Computer Science with a Minor in Business Administration. Before graduating in Spring 2018, I will be interning for IBM in San Jose this summer and working on a satellite data processing project under a NASA fellowship grant in Fall 2017",
     "location": {
       "address": "",
       "postalCode": "",
@@ -57,7 +57,6 @@
         "Meteor",
         "OpenCV",
         "MySQL",
-        "Brunel",
         "Git",
         "TCP/IP",
         "Raspberry Pi"
@@ -81,12 +80,23 @@
       "company": "Oceanit Laboratories, Inc.",
       "position": "Network and Security Intern",
       "website": "http://www.oceanit.com",
-      "startDate": "2016-11-01",
+      "startDate": "2017-06-05",
       "endDate": "Present",
       "summary": "",
       "highlights": [
+        "Developing a scalable backend API on the Watson Analytics platform.",
+      ]
+    },
+    {
+      "company": "Oceanit Laboratories, Inc.",
+      "position": "Network and Security Intern",
+      "website": "http://www.oceanit.com",
+      "startDate": "2016-11-01",
+      "endDate": "2017-05-19",
+      "summary": "",
+      "highlights": [
         "Built a 72” video wall system using open-source software, IP routing, and seven Raspberry Pis.",
-        "Wrote Shell scripts for automated stress testing of the video wall’s buffer size (MB) and heat tolerance.",
+        "Tested PySide2,	an	open-source	Python	binding	of	Qt,	on	the	MinGW development	environment for	a	Windows	CV	application.",
         "Conducted high-level network assessments for external clients and state agencies."
       ]
     },
@@ -99,7 +109,7 @@
       "summary": "",
       "highlights": [
         "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program.",
-        "Followed the scrum agile development methodology on a team of 5 using Git version control.",
+        "Followed the scrum agile development methodology on team while using Git version control.",
         "Conducted extensive consumer research using AB testing and Google Analytics."
       ]
     },
@@ -111,8 +121,7 @@
       "endDate": "2015-07-28",
       "summary": "",
       "highlights": [
-        "Refactored a mobile geographic information system (GIS) app that reduced the damage assessment time
-of disaster response units by 40% (4-5 hours) using the ArcGIS API.",
+        "Refactored a mobile geographic information system (GIS) app to include a parcel data extraction feature using the ArcGIS API.",
         "Developed a cross-platform Customer Relationship Management (CRM) app for iOS and Android using
 Cordova, Node.js, and Design Thinking to increase consultant and client interaction by 10%."
       ]
