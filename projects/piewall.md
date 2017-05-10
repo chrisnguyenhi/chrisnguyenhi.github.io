@@ -40,12 +40,11 @@ Each tile Pi held a ``.pitile`` file to determine its position in the video wall
 The Controller Pi also held a ``sshWall`` file that allowed the Controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
 Lastly, the Controller Pi had a ``ActivateWall.sh`` script that enables the enter system to run with one-click. 
 
-<br><br>
-As for energy management, the entire Piewall system was equipped with an [IBIS Intellisocket](http://ibisnetworks.com/ibissystem/ibis-intelisocket/) made by IBIS Networks-- an Oceanit venture. The Intellisocket system allows the entire Piewall to be monitored and turned off automatically by the end of the workday to decrease energy consumption.
+This system does not consume a lot of energy on a daily basis since the entire Piewall system was hooked up to [IBIS Intellisockets](http://ibisnetworks.com/ibissystem/ibis-intelisocket/), a smart socket made by IBIS Networks-- an Oceanit venture. With the Intellisocket system, the entire Piewall system's energy consumption can be monitored in real time.
 
-<img class class="ui huge floated rounded image" src="../images/ibis.png">
+<img class class="ui large floated rounded image" src="../images/ibis.png">
 
-The Intellisocket system also came with an intuitive dashboard to easily automate the shutdown of the Piewall system and monitor energy consumption.
+The Ibis Intellisockets also came with a software that allows the Piewall system's users to easily automate the shutdown of the Piewall system and show visualizations of the Piewall's energy consumption rate. The Piewall is currently programmed to turn on and shutdown by a standard "9-5" workday from Mondays to Fridays.
 
 If you want to learn more about this project, please check out the github link below for my configurations and settings!
 
