@@ -42,10 +42,19 @@ In a way, being able to declare variables like this is pretty cool because it al
 
 ## JavaScript in ICS 314 (Software Engineering)
 
-Although I have done work with JavaScript in the past by using several JavaScript-supported APIs, [ICS 314](http://courses.ics.hawaii.edu/ics314s17/index.html) was my first time formally learning the language in a classroom setting. From my first week in the class, I learned how to do a lot of new things in JavaScript such as creating an object and accessing its properties. Being able to quickly add a property to an object without making a new one with new parameters was also something new to me. 
+Although I have done work with JavaScript in the past by using several JavaScript-supported APIs, [ICS 314](http://courses.ics.hawaii.edu/ics314s17/index.html) was my first time formally learning the language in a classroom setting.
 
-In ICS 314, there is a WOD (Work Out of the Day) every week where students are challenged to code a solution to a problem within a certain amount of time-- something known as "Athletic Software Engineering." I enjoy doing WODs because it is good practice for future interviews and it gives me practice in a programming language I am learning. This style of learning may be a little stressful but it is enjoyable because it challenges me to understand a problem and find the best optimal solution-- much like those problems found on [LeetCode](https://leetcode.com/problemset/draft/) which sometimes show up on actual tech interviews. 
+<img height="200" width="600" src="../images/lint.png"><br>
+
+From my first week in the class, I learned how to do a lot of new things in JavaScript such as creating an object and accessing its properties. Being able to quickly add a property to an object without making a new one with new parameters was also something new to me. 
+
+In ICS 314, there is a WOD (Work Out of the Day) every week where students are challenged to code a solution to a problem within a certain amount of time-- something known as "Athletic Software Engineering." I enjoy doing WODs because it is good practice for future interviews and it gives me practice in a programming language I am learning. 
+
+This style of learning may be a little stressful but it is enjoyable because it challenges me to understand a problem and find the best optimal solution-- much like those problems found on [LeetCode](https://leetcode.com/problemset/draft/) which sometimes show up on actual tech interviews. 
 
 ## Conclusion: Is JavaScript Good or Bad?
 
-JavaScript is pretty great. The best part of it to me is being able to easily declare variables and access properties inside an object. JavaScript also has a variety of different uses from web development to game development. I remember an IBM recruiter at a career fair telling me to put JavaScript before Java on my resume because a lot of companies nowadays are looking for JavaScript. From a Software Engineering perspective, I feel that JavaScript has room to grow. It is a great language that can interact with other languages such as PHP and HTML. From my knowledge, I can't see anyone progamming applications to do things like contour detection or train a classifer but it seems to be getting on that level since people are doing things like [binding OpenCV](https://github.com/peterbraden/node-opencv) or making a [Deep Learning library](http://cs.stanford.edu/people/karpathy/convnetjs/). JavaScript is something I will definitely continue to learn.
+JavaScript is pretty great. The best part of it to me is being able to easily declare variables and access properties inside an object. JavaScript also has a variety of different uses from web development to game development. I remember an IBM recruiter at a career fair telling me to put JavaScript before Java on my resume because a lot of companies nowadays are looking for JavaScript (EDIT on 5/10/17: I'm interning for IBM now!). 
+From a Software Engineering perspective, I feel that JavaScript has room to grow. It is a great language that can interact with other languages such as PHP and HTML. 
+
+From my knowledge, I can't see anyone progamming applications to do things like contour detection or train a classifer but it seems to be getting on that level since people are doing things like [binding OpenCV](https://github.com/peterbraden/node-opencv) or making a [Deep Learning library](http://cs.stanford.edu/people/karpathy/convnetjs/). JavaScript is something I will definitely continue to learn.
