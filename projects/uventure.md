@@ -19,8 +19,7 @@ summary: A Meteor web application backed by MongoDB to help the UH Manoa communi
 My role for this project was to create the frontend and backend capabilities to allow users to add an adventure, edit adventures and view the currently existing adventures.
 I also created the backend data for the Calendar page which populates the Calendar Page with special dates based on the UH system academic calendar.
 
-
-<img src="/images/mongodb.png" width="700" height="400">
+<img src="/images/mongodb.png" width="700" height="200">
 
 I managed the MongoDB database hosted on [mLabs](https://mlab.com/home), a cloud-based MongoDB service which is currently free for me. 
 
