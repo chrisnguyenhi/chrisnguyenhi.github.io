@@ -14,11 +14,15 @@ summary: A Meteor web application backed by MongoDB to help the UH Manoa communi
 ---
 [uVenture](http://uventure.meteorapp.com/) is a Meteor web application backed by MongoDB to help the UH Manoa community plan adventures around Hawaii. I worked with a group of three on this project for my ICS 314 Software Engineering class. The latest deployment of this project is hosted on the Galaxy platform-as-a-service (PaaS)-- which is similar to the [Docker](https://www.docker.com/) and [Amazon Web Services](https://aws.amazon.com/) hosting environments.
 
+<img src="/images/landing.png" width="700" height="400">
+
 My role for this project was to create the frontend and backend capabilities to allow users to add an adventure, edit adventures and view the currently existing adventures.
 I also created the backend data for the Calendar page which populates the Calendar Page with special dates based on the UH system academic calendar.
-I managed the MongoDB database hosted on [mLabs](https://mlab.com/home), a cloud-based MongoDB service which is currently free for me. 
 
-<img src="/images/landing.png" width="700" height="400">
+
+<img src="/images/mongodb.png" width="700" height="400">
+
+I managed the MongoDB database hosted on [mLabs](https://mlab.com/home), a cloud-based MongoDB service which is currently free for me. 
 
 I also played a role as the Project Manager of the team by organizing weekly meetings to ensure that everyone was on the same page and seeing the same vision for the uVenture application.
 The project management methodology this project followed was the [Issue Driven Project Management (IDPM) methodology](http://courses.ics.hawaii.edu/ReviewICS314/morea/project-management/reading-project-management-guidelines.html).
