@@ -35,6 +35,8 @@ Long story short, don't ignore .gitignore. Especially when it is included in a t
 <img class="ui large left floated image" src="../images/meteor-overlay.jpg">
 One of the benefits to Meteor is definitely the amount of learning someone can get from using it. By learning Meteor, one can learn how to use MongoDB (the LEAD in NoSQL databases today). Honestly, there is probably no better and easier way to learn MongoDB than to use Meteor. This is definitely one of the highlights of Meteor because learning MongoDB seperately and trying to understand the concept of [MiniMongo](https://www.meteor.com/mini-databases) could be hard for someone to wrap their head around with if they are trying to learn it individually. My logic is: "Why not get more bang for your buck?"<br><br>
 Meteor is free of course, but by learning Meteor someone could also learn MongoDB at the same time. This is definitely amazing for someone like me who does not have a lot of time on his hands. Plus having a good ICS 314 professor that provides a fantastic set of resources and documentation on both Meteor and MongoDB is a huge help as well. (I hope you're reading this, Dr. Johnson!) <br><br>
+<img src="/images/mongodb.png" width="600" height="200">
+<br>
 Another small thing I would like to note is that now that I understand how to use Meteor to its near-full capacity, I can take my knowledge, experience, and ability to debug things to another framework such as React or AngularJS. (Except Meteor can allow me to manipulate both the front-end and back-end whereas other frameworks do not).<br><br>
 
 ## Going from a Meteor to a Meteor Shower
