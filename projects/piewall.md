@@ -12,7 +12,7 @@ labels:
   - Embedded Systems
 summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis developed at Oceanit. 
 ---
-<img class class="ui medium right floated rounded image" src="../images/piwall2.jpg">
+<img class class="ui large right floated rounded image" src="../images/piwall2.jpg">
 
 During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis. 
 
@@ -32,7 +32,7 @@ Compared to other [large-scale commerical video wall systems](http://www.focused
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
 After all of the Raspberry Pis installed the Pi-Wall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to broadcast the video stream to the other tile Pis within the network.
 
-<img class class="ui large floated rounded image" src="../images/piwall1.jpg">
+<img class class="ui large centered floated rounded image" src="../images/piwall1.jpg">
 
 Every Pi had a ``.piwall`` file that held the tile measurements for the 72" system.
 Each tile Pi held a ``.pitile`` file to determine its position in the video wall and a ``playTile.sh`` script that allowed it to capture the video stream from the controller Pi.
