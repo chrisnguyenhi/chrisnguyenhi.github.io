@@ -9,7 +9,7 @@ labels:
   - C
   - NLP
   - Robotics
-summary: PIPE - Programming in Pure English. An application turns English into code. My project for the 2014 Honolulu District and Hawaii State Science and Engineering Fair.
+summary: An application turns English into code. My project for the 2014 Honolulu District and Hawaii State Science and Engineering Fair.
 ---
 <img class class="ui medium right floated rounded image" src="../images/rumba.jpg">
 
