@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning JavaScript
+title: learning.js
 date: 2017-01-20
 labels:
   - Learning
