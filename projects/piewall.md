@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/piwalldot.jpg
-title: Pie Wall
+title: Piewall
 permalink: projects/piewall
 date: 2016
 labels:
