@@ -27,7 +27,7 @@ To create this 72" display, the following materials were used:
 Compared to other [large-scale commerical video wall systems](http://www.focusedtechnology.com/video-wall.html) this 72" system is inexpensive and costs ~$2,600 to make. 
 <br>
 <br>
-<img class class="ui huge floated rounded image" src="../images/piwall1.jpg">
+<img class class="ui medium floated rounded image" src="../images/piwall1.jpg">
 <br>
 
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
