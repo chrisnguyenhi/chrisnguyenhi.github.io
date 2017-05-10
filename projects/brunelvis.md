@@ -23,11 +23,11 @@ From this dataset, a bubble chart sorted by employment number and colored by maj
 
 The BrunelVis program I made creates an HTML file containing the visualization results once a CSV file is passed in. The larger the bubble, the higher the employment number is for each major. From here, we see that Business Management and Administration has the most employment. 
 
-<img src="/images/output.png" width="700" height="500">
+<img src="/images/output.png" width="700" height="500" class="ui huge floated rounded image">
 
 A similar data visualization was made in ``marvel.java`` with a different and larger [dataset](https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/marvel-wikia-data.csv) containing the information of Marvel Characters scraped off [Marvel Wikia](http://marvel.wikia.com/wiki/Marvel_Database) courtesy of [Five Thirty Eight](https://fivethirtyeight.com/). 
 
-<img src="/images/large.png" width="700" height="600">
+<img src="/images/large.png" width="700" height="600" class="ui huge floated rounded image">
 
 This visualization was also a bubble chart of appearances colored by the character's allignment (good, evil, neutral, and ?). The larger the bubble, the more the number of appearances. From here, we see that the top 3 characters who have made the most appearances are Iron Man, Spider Man, and Captain America. 
 
