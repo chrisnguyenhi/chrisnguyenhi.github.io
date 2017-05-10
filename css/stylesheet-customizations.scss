@@ -2,35 +2,4 @@
 # Provide front matter so Jekyll processes this file as SASS.
 ---
 
-body {
-   background-color: #FAFAFA;
-}
 
-// Customize the menubar color
-.ui.menu {
-   background: #2c3e50;
-}
-
-.ui.menu .item {
-    color: white;
-}
-
-//Change menubar color of current page
-.ui.menu .active.item {
-    color: #FFFF00;
-}
-
-// Customize the home page icon colors
-.icon-color {
-   color: #2c3e50;
-}
-
-//Change hover menubar color of other pages except current page
-.ui.menu a.item:hover {
-   color: #FFFF00;
-}
-
-//Change hover menubar color of current page when on current page
-.ui.menu .active.item:hover {
-  color: #18bc9c;
-}
