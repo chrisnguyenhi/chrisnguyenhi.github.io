@@ -18,7 +18,7 @@ PIPE (Programming in Pure English) is a console application turns English langua
 After a command is entered, the program scans for keywords mapped to selected commands in the [Botball](http://www.botball.org/) C library (based on the 2013 Student Developers Kit) and translates them into C file that is ready for Botball robots to run.
 <br>
 <br>
-<img src="../images/PIPE1.png" class="ui medium floated rounded image">
+<img src="../images/PIPE1.png" class="ui large floated rounded image">
 <br>
 This was my first-ever programming project using the first programming language I learned. Now that I am I college junior, I feel that it was probably a bad idea for a high school junior to pick C as his first programming language to learn. It was definitely a huge learning curve from teaching myself how to program to creating an application that accomplishes a goal. 
 
