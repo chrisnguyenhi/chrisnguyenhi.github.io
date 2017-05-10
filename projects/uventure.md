@@ -4,7 +4,7 @@ type: project
 image: images/uventure.png
 title: uVenture
 permalink: projects/uventure
-date: 2016
+date: 2017
 labels:
   - Meteor
   - Google Maps API
