@@ -10,7 +10,7 @@ labels:
   - Raspberry Pi
   - IP/TCP
   - Embedded Systems
-summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis for Oceanit Laboratories, Inc. 
+summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis developed at Oceanit. 
 ---
 <img class class="ui medium right floated rounded image" src="../images/piwall2.jpg">
 
@@ -27,11 +27,12 @@ To create this 72" display, the following materials were used:
 - Six [24" LG Infinity Monitors with 2.5mm Bezels](http://www.lg.com/us/monitors/lg-24MP88HV-S-led-monitor) ($349.99 each)<br>
 - One [TP-Link 8-Port Gigabit Desktop Switch](http://www.tp-link.com/us/products/details/cat-5582_TL-SG1008D.html) ($24.99)<br>
 Compared to other [large-scale commerical video wall systems](http://www.focusedtechnology.com/video-wall.html) this 72" system is inexpensive and costs ~$2,600 to make. 
-<img class class="ui medium floated rounded image" src="../images/piwall1.jpg">
 <br>
 
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
 After all of the Raspberry Pis installed the Pi-Wall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to broadcast the video stream to the other tile Pis within the network.
+
+<img class class="ui medium floated rounded image" src="../images/piwall1.jpg">
 
 Every Pi had a ``.piwall`` file that held the tile measurements for the 72" system.
 Each tile Pi held a ``.pitile`` file to determine its position in the video wall and a ``playTile.sh`` script that allowed it to capture the video stream from the controller Pi.
@@ -39,6 +40,12 @@ Each tile Pi held a ``.pitile`` file to determine its position in the video wall
 The Controller Pi also held a ``sshWall`` file that allowed the Controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
 Lastly, the Controller Pi had a ``ActivateWall.sh`` script that enables the enter system to run with one-click. 
 
-If you want to learn more my configurations for this project, please check out the github link below!
+For energy management, the entire Piewall system was equipped with an [IBIS Intellisocket](http://ibisnetworks.com/ibissystem/ibis-intelisocket/) made by IBIS Networks-- an Oceanit venture. The Intellisocket system allows the entire Piewall to be monitored and turned off automatically by the end of the workday to decrease energy consumption.
+
+<img class class="ui medium floated rounded image" src="../images/ibis.png">
+
+The Intellisocket system also came with an intuitive dashboard to easily automate the shutdown of the Piewall system and monitor energy consumption.
+
+If you want to learn more about this project, please check out the github link below for my configurations and settings!
 
 Source: <a href="https://github.com/chrisnguyenhi/piwall72"><i class="large github icon"></i>Pi Wall 72</a>
