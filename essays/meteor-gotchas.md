@@ -10,6 +10,7 @@ labels:
 ---
 
 # How Meteor Got Me
+<img class="ui small left floated image" src="../images/meteor-logo.png">
 Meteor is a popular open source platform for web, mobile, and desktop applications. It is great for beginning developers that are looking to take a dive into the world of fullstack development. Not only does Meteor allow the collaboration of front-end frameworks such as [Semantic UI](semantic-ui.com) but it also supports [MongoDB](https://www.mongodb.com/), a very popular NoSQL database. Although Meteor does sound like a walk in the park compared to other high-level open source platforms, it may be daunting for first-time developers as well as developers looking to intergrate a platform like Meteor with things like IntelliJ and ESLint or even beginners to Node.js. This essay highlights some of the common problems I have had with my early exposure to Meteor and how I managed to solve them.
 
 ## Starting a Meteor Shower
