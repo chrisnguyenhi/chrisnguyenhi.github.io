@@ -40,7 +40,8 @@ Each tile Pi held a ``.pitile`` file to determine its position in the video wall
 The Controller Pi also held a ``sshWall`` file that allowed the Controller Pi to SSH into every individual tile Pi and run their own ``playTile.sh`` scripts.
 Lastly, the Controller Pi had a ``ActivateWall.sh`` script that enables the enter system to run with one-click. 
 
-For energy management, the entire Piewall system was equipped with an [IBIS Intellisocket](http://ibisnetworks.com/ibissystem/ibis-intelisocket/) made by IBIS Networks-- an Oceanit venture. The Intellisocket system allows the entire Piewall to be monitored and turned off automatically by the end of the workday to decrease energy consumption.
+<br><br>
+As for energy management, the entire Piewall system was equipped with an [IBIS Intellisocket](http://ibisnetworks.com/ibissystem/ibis-intelisocket/) made by IBIS Networks-- an Oceanit venture. The Intellisocket system allows the entire Piewall to be monitored and turned off automatically by the end of the workday to decrease energy consumption.
 
 <img class class="ui huge floated rounded image" src="../images/ibis.png">
 
