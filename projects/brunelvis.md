@@ -13,7 +13,7 @@ labels:
   - JavaScript
   - Data Visualization
 
-summary: A series of data visualization project in Java using the Brunel Visualization grammar made as a personal side-project.
+summary: A series of data visualizations in Java using the Brunel Visualization grammar by IBM.
 ---
 This project is a series of data visualizations using the Brunel Visualization grammar. For this project, I acquired basic data visualization skills and learn how to use large datasets to answer questions such as "What is the Major with the highest employment numbers?" or "Which Marvel character has made the most appearances?" Being able to work with an open-source visualization library was also a major plus to me as well.
 
