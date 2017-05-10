@@ -10,7 +10,7 @@ labels:
   - OpenCV
   - Computer Vision
   - DOE STEM
-summary: A console application that uses OpenCV to track motion in real-time. My collaborative project as a STEM Resource Mentor for the 2016 Honolulu District and Hawaii State Science and Engineering Fair.
+summary: A console application that uses OpenCV to track motion in real-time. This project was done for the 2016 Honolulu District and Hawaii State Science and Engineering Fair where I served as a STEM Resource Mentor.
 ---
 <img class class="ui medium right floated rounded image" src="../images/airisdot.png">
 
