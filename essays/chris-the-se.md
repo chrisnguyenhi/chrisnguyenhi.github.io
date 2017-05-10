@@ -8,17 +8,17 @@ labels:
 ---
 <img class="ui medium left floated image" src="../images/headshot.jpg">
 
-In my senior year of high school, I taught myself how to code because I needed [a project to impress a girl at a science fair](https://chrisnguyenhi.github.io/projects/pipe). Now I'm a Computer Science major. Yeah, that's me. 
+In my senior year of high school, I taught myself how to code because I needed [a project to impress a girl at a science fair](https://chrisnguyenhi.github.io/projects/pipe). Now I'm a Computer Science major. Yeah, that's me. Hi, I'm Chris. 
 
 ## Who am I?
-Hi! My name is Christopher Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. My software engineering experiences come from my internships at [Oceanit](http://www.oceanit.com/) and Ditto, a startup fund by the [Blue Startups Accelerator Program](http://bluestartups.com/). 
+Hi! I'm Chris Nguyen from Honolulu, Hawaii. My interests in Software Engineering lies in both front end development and back end development-- Full Stack. My software engineering experiences come from my internships at [Oceanit](http://www.oceanit.com/) and Ditto, a startup fund by the [Blue Startups Accelerator Program](http://bluestartups.com/). 
 
 ## What I do
 At Oceanit, I had the opportunity to work on two mobile apps-- a CRM app and a GIS app. This taught me how to work with both front end and back end development as well as learn existing frameworks and use a shared code base. For the CRM app, I had to use [Design Thinking](http://dschool.stanford.edu/dgift/), a human-centered approach to ensure that I create a product that serves consumer needs-- or in my case, the internal needs. 
 
 At Ditto, I mainly worked on data analysis and front end development. Working at a startup can be intensive, especially with grueling deadlines and the pressure to meet adequete progress within a given period but it was an amazing experience that taught me more about the ["startup culture."](https://www.wired.com/insights/2013/09/how-do-you-define-startup-culture/) 
 
-<img class class="ui medium left floated rounded image" src="../images/piwall1.jpg">
+<img class class="ui small right floated rounded image" src="../images/piwall1.jpg">
 
 As a Network and Security Intern at Oceanit where I conduct high-level network assessments of external clients and state agencies. Although this position is not a Software Engineering position, I enjoyed being able to take on a project management-like role and being able to interact with a variety of clients. I also acquired more experience in automating embedded systems with the [72" video wall system I built using Raspberry Pis](https://chrisnguyenhi.github.io/projects/piwall72). 
 
