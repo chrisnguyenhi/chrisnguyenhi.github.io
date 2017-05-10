@@ -27,6 +27,8 @@ For this project, I learned how to research advanced topics such as Computer Vis
 
 <br>
 <img class class="ui medium left floated rounded image" src="../images/airisgroup.jpg">
+<br>
+<br>
 
 This project and my mentees were also featured on Hawaii News Now on Sunrise for the [March 11](http://www.hawaiinewsnow.com/story/31448254/students-discuss-their-entries-in-the-hawaii-state-science-and-engineer-fair) airing and the [March 22](http://www.hawaiinewsnow.com/story/31539501/interview-hawaii-state-science-engineering-fair) airing. 
 
