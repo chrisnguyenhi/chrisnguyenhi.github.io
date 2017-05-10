@@ -27,7 +27,6 @@ To create this 72" display, the following materials were used:
 - Six [24" LG Infinity Monitors with 2.5mm Bezels](http://www.lg.com/us/monitors/lg-24MP88HV-S-led-monitor) ($349.99 each)<br>
 - One [TP-Link 8-Port Gigabit Desktop Switch](http://www.tp-link.com/us/products/details/cat-5582_TL-SG1008D.html) ($24.99)<br>
 Compared to other [large-scale commerical video wall systems](http://www.focusedtechnology.com/video-wall.html) this 72" system is inexpensive and costs ~$2,600 to make. 
-
 <img class class="ui medium floated rounded image" src="../images/piwall1.jpg">
 <br>
 
