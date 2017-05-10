@@ -32,7 +32,7 @@ Compared to other [large-scale commerical video wall systems](http://www.focused
 In order to run a stable stream, all of the Pis had to be connected to one network switch and be configured to run SSH.
 After all of the Raspberry Pis installed the Pi-Wall software, one Pi was designated as the "Controller" and held a ``activateController.sh`` file to broadcast the video stream to the other tile Pis within the network.
 
-<img class class="ui medium floated rounded image" src="../images/piwall1.jpg">
+<img class class="ui large floated rounded image" src="../images/piwall1.jpg">
 
 Every Pi had a ``.piwall`` file that held the tile measurements for the 72" system.
 Each tile Pi held a ``.pitile`` file to determine its position in the video wall and a ``playTile.sh`` script that allowed it to capture the video stream from the controller Pi.
@@ -42,7 +42,7 @@ Lastly, the Controller Pi had a ``ActivateWall.sh`` script that enables the ente
 
 For energy management, the entire Piewall system was equipped with an [IBIS Intellisocket](http://ibisnetworks.com/ibissystem/ibis-intelisocket/) made by IBIS Networks-- an Oceanit venture. The Intellisocket system allows the entire Piewall to be monitored and turned off automatically by the end of the workday to decrease energy consumption.
 
-<img class class="ui medium floated rounded image" src="../images/ibis.png">
+<img class class="ui huge floated rounded image" src="../images/ibis.png">
 
 The Intellisocket system also came with an intuitive dashboard to easily automate the shutdown of the Piewall system and monitor energy consumption.
 
