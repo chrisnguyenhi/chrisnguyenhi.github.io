@@ -15,11 +15,11 @@ labels:
   - Google Maps API
 summary: An interactive web map application backed with a MySQL database and the Google Maps API.
 ---
-<img src="/images/Screenshot1.PNG" width="800" height="400">
+<img src="/images/Screenshot1.PNG" width="800" height="400" class="ui huge floated rounded image">
 
 Point It! is a database-backed web application using the [Google Maps API](https://developers.google.com/maps/). Users can find where they are through the Google Maps API and add a point to mark off their favorite locations and categorize them as a restaurant, landmark, public area, etc. 
 
-<img src="/images/Screenshot2.PNG" width="800" height="400">
+<img src="/images/Screenshot2.PNG" width="800" height="400" class="ui huge floated rounded image">
 
 In this project, I gained experience making database-backed web applications using PHP, MySQL, and the [XAMPP](https://www.apachefriends.org/index.html) development environment (with a dash of HTML, CSS, and JavaScript). 
 It was also the first time I used the [Google Maps API](https://developers.google.com/maps/)-- a well known and popular API. 
