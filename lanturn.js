@@ -24,9 +24,7 @@ var RENDERER = {
 		this.canvas = $('<canvas />').attr({width : this.width, height : this.height}).appendTo(this.$container).get(0);
 		this.context = this.canvas.getContext('2d');
 		
-		this.backgroundGradient = this.context.createRadialGradient(this.width, 0, 0, this.width, 0, this.distance);
-		this.backgroundGradient.addColorStop(0, 'hsl(200, 100%, 0%)');
-		this.backgroundGradient.addColorStop(1, 'hsl(200, 100%, 20%)');
+	
 		
 		this.theta = Math.PI;
 		
