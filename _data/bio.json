@@ -76,7 +76,7 @@
   "work": [
   	{
       "company": "NASA",
-      "position": "Space Grant Consortium Fellow",
+      "position": "Hawaii Space Grant Consortium Fellow",
       "website": "http://www.spacegrant.hawaii.edu",
       "startDate": "2017-08-22",
       "endDate": "Present",
@@ -102,7 +102,7 @@ surface changes.",
     },
     {
       "company": "Oceanit Laboratories, Inc.",
-      "position": "Network and Security Intern",
+      "position": "Network Security Intern",
       "website": "http://www.oceanit.com",
       "startDate": "2016-11-01",
       "endDate": "2017-05-19",
@@ -115,19 +115,19 @@ surface changes.",
     },
     {
       "company": "Ditto",
-      "position": "Front End Development Intern",
+      "position": "Software Development Intern",
       "website": "http://bluestartups.com/cohort-6",
       "startDate": "2015-10-30",
       "endDate": "2016-02-15",
       "summary": "",
       "highlights": [
-        "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program.",
-        "Conducted extensive consumer research using AB testing and Google Analytics."
+        "Developed the front-end for Ditto, a social media startup in the Blue Startups Accelerator Program.",
+        "Conducted extensive consumer research using AB testing and Google Analytics on the Ditto app and website."
       ]
     },
      {
       "company": "Oceanit Laboratories, Inc.",
-      "position": "Oceanit Student Intern",
+      "position": "Software Development Intern",
       "website": "http://www.oceanit.com",
       "startDate": "2015-06-02",
       "endDate": "2015-07-28",
@@ -140,7 +140,7 @@ Cordova, Node.js, and Design Thinking to increase consultant and client interact
     },
      {
       "company": "Hawaii Department of Education",
-      "position": "STEM Resource Mentor",
+      "position": "STEM Mentor",
       "website": "http://www.hawaiipublicschools.org",
       "startDate": "2014-09-16",
       "endDate": "Present",
