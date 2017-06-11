@@ -82,10 +82,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Building a cloud-based data processing architecture for satellite data
-using the Nebula cloud computing platform.",
-        "Analyzing images from a spacecraft currently orbiting Mars for
-surface changes.",
+        "Building a cloud-based service to host and process lunar temperature data from the NASA Lunar Reconnaissance Orbiter.",
+        "Producing a ‘potential sublimation rate’ map to identify and visualize potential ice deposits on the Moon.",
       ]
     },
     {
@@ -98,7 +96,7 @@ surface changes.",
       "highlights": [
         "Developing a dependency detection framework to automate the update and build process of 3rd party packages in Watson Data Platform services.",
         "Led team of 4 following the scrum agile development methodology through daily standups and 2 week sprints as scrum master.",
-        "•	Worked collaboratively with international development groups to complete comprehensive testing and quality assurance on 2 major releases.",
+        "Worked collaboratively with international development groups to complete comprehensive testing and quality assurance on 2 major releases.",
       ]
     },
     {
