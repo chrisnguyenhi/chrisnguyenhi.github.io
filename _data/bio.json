@@ -94,9 +94,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developing a dependency detection framework to automate the update and build process of 3rd party packages in Watson Data Platform services.",
-        "Led team of 4 following the scrum agile development methodology through daily standups and 2 week sprints as scrum master.",
-        "Worked collaboratively with international development groups to complete comprehensive testing and quality assurance on 2 major releases.",
+        "Developed a dependency detection microservice to automate the update, sandbox, and build processes of 3rd party dependencies in Watson Data Platform services.",
+        "Wrote RESTful APIs for the dependency detection microservice and documented them using Swagger.",
+        "Led team of four through daily standups and playbacks in two week sprints as scrum master.",
+        "Worked collaboratively with international development groups to complete comprehensive testing and quality assurance on two major releases.",
       ]
     },
     {
