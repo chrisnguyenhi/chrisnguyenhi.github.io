@@ -6,7 +6,7 @@
     "email": "cnguyen7@hawaii.edu",
     "phone": "808-343-7029",
     "website": "https://chrisnguyenhi.github.io",
-    "summary": "I am a rising senior at the University of Hawaii at Manoa majoring in Computer Science with a minor in Business. Before graduating in Spring 2018, I will be interning for IBM in Summer 2017.",
+    "summary": "Senior at the University of Hawaii at Manoa majoring in Computer Science with a minor in Business. I am currently a Space Grant Fellow courtesy of NASA and previously interned at IBM and Oceanit.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -53,6 +53,7 @@
       "level": "",
       "keywords": [
         "Node.js",
+        "Ionic",
         "Cordova",
         "MySQL",
         "Git",
@@ -68,7 +69,7 @@
       "studyType": "Undergraduate",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "3.78",
+      "gpa": "3.8",
       "courses": [
       ]
     }
@@ -76,32 +77,33 @@
   "work": [
   	{
       "company": "NASA",
-      "position": "Hawaii Space Grant Consortium Fellow",
+      "position": "Space Grant Fellow",
       "website": "http://www.spacegrant.hawaii.edu",
       "startDate": "2017-08-22",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Building a cloud-based service to host and process lunar temperature data from the NASA Lunar Reconnaissance Orbiter.",
-        "Producing a ‘potential sublimation rate’ map to identify and visualize potential ice deposits on the Moon.",
+        "Building a cloud service to host and process temperature data from the NASA Reconnaissance Orbiter on the Moon",
+        "Reduced the runtime of I/O operations by 60% (15 hours) prior to using Amazon RAID configurations.",
+        "Producing a ‘potential sublimation rate’ map to identify and visualize potential ice deposits on the Moon."
       ]
     },
     {
       "company": "IBM",
-      "position": "Software Development Intern",
+      "position": "Software Developer Intern",
       "website": "https://www.ibm.com",
       "startDate": "2017-06-05",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developed a dependency detection microservice to automate the update, sandbox, and build processes of 3rd party dependencies in Watson Data Platform services.",
-        "Wrote RESTful APIs for the dependency detection microservice and documented them using Swagger.",
-        "Led team of four through daily standups and playbacks in two week sprints as scrum master.",
-        "Worked collaboratively with international development groups to complete comprehensive testing and quality assurance on two major releases.",
+        "Automated the detection, sandbox, and build processes for 3rd party dependency updates in Watson Data Platform services.",
+        "Followed the Visitor design pattern to develop RESTful Node.js and Express APIs to handle dependency version checks and documented them with Swagger.",
+        "Led a team of 4 through sprint plannings and daily standups as scrum master.",
+        "Architected a blockchain solution forticket sales at the BlueHack hackathon."
       ]
     },
     {
-      "company": "Oceanit Laboratories, Inc.",
+      "company": "Oceanit",
       "position": "Network Security Intern",
       "website": "http://www.oceanit.com",
       "startDate": "2016-11-01",
@@ -121,13 +123,16 @@
       "endDate": "2016-02-15",
       "summary": "",
       "highlights": [
-        "Developed the front-end for Ditto, a social media startup in the Blue Startups Accelerator Program.",
-        "Conducted extensive consumer research using AB testing and Google Analytics on the Ditto app and website."
+        "Built a 72” video wall system using open-source software, IP routing, and seven Raspberry Pis.",
+         "Conducted initial feasibly tests and prototyping which led to a 97% cost
+reduction ($58,000 cheaper compared to commercially sold video wall).",
+"Reduced electricity costs by 40% by configuring a smart socket system to
+monitor and control the video wall’s energy consumption."
       ]
     },
      {
-      "company": "Oceanit Laboratories, Inc.",
-      "position": "Software Development Intern",
+      "company": "Oceanit",
+      "position": "Software Developer Intern",
       "website": "http://www.oceanit.com",
       "startDate": "2015-06-02",
       "endDate": "2015-07-28",
