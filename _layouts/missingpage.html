@@ -26,23 +26,6 @@
         {% endfor %}
       </ul>
 
-      <!-- Add to list each page in category
-      <h3 class="header-missingpage">Projects</h3>
-      <ul>
-        {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
-        {% for page in project_pages %}
-        <li><a class="missingpage-link" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-        {% endfor %}
-      </ul>
-
-      <h3 class="header-missingpage">Blog</h3>
-      <ul>
-        {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
-        {% for page in blog_pages %}
-        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-        {% endfor %}
-      </ul>
-      -->
     </div>
   </div>
 </div>
