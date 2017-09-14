@@ -1,24 +1,42 @@
-# Site settings
-
-# REQUIRED CHANGES
-# Edit next line, providing your own name.
 title: Christopher Nguyen
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://chrisnguyenhi.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+email: cnguyen7@hawaii.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Christopher Nguyen. UH Manoa '18. NASA Space Grant Fellow. Former Software Developer Intern at IBM and Oceanit. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chrisnguyenhi.github.io" 
+github_username: chrisnguyenhi
+git_repo: chrisnguyenhi
+github: https://github.com/chrisnguyenhi
+linkedin: https://linkedin.com/in/chrisnguyenhi
+projects: /projects
+mail: mailto:cnguyen7@hawaii.edu
 
-# OPTIONAL CHANGES
-# You might want to change the bio page label to something else, such as CV
-bio-page-label: Resume
-# You might want to change the theme associated with one or more sections of the site.
-# Defining your own custom theme variations is easy. See the documentation.
-theme-home: theme-home-builtin-1.html
-theme-projects: theme-projects-builtin-1a.html
-theme-essays: theme-essays-builtin-1a.html
-theme-bio: theme-bio-builtin-1.html
-
-# YOU NORMALLY NEVER CHANGE THE FOLLOWING
-markdown: kramdown
 include: [_data]
 
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+
+theme: minima 
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+social:
+  name: Christopher Nguyen
+  links:
+    - https://github.com/chrisnguyenhi
+
+logo: /images/h.png
+google_analytics: 
