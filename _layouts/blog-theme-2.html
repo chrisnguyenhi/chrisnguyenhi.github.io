@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="{{ page.lang | default: site.lang | default: en }}">
 
 {% include head.html %}
@@ -6,20 +6,23 @@
 <body>
 {% include sidebar.html %}
 {% include header.html %}
-<div class="sidebar-topnav-mobile"></div>
+
+<div class="sidebar-topnav-mobile blogs"></div>
 <!-- Wrap is the content to shift when toggling the sidebar. We content-cover the
      content to avoid any CSS collisions with our real content. -->
 <div class="content-cover">
-  <div class="about-mobile-screen">
-    <div style="margin-top: 85px; padding-bottom:15px" class="ui text container">
-      <div style="margin-left:10px">
-        <h1>{{ page.title }}</h1>
-        <hr>
-        <!-- Controls back-to-top, encase content -->
-        <div style="margin-top:17.5px" class="cd-container">
-          {{ content }}
+  <div class="cd-container">
+    <!-- DONT TOUCH THESE VALUES FOR MOBILE -->
+    <div style="margin-top: 100px; padding-bottom: 35px;" class="ui container">
+      <div class="blog-mobile-screen all-blogs">
+        <div class="ui stackable centered four cards">
+          {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
+          {% for page in blog_pages %}
+          {% unless page.draft %}
+          {% include blog-card-2.html page=page %}
+          {% endunless %}
+          {% endfor %}
         </div>
-        <!-- End -->
       </div>
     </div>
   </div>
@@ -31,11 +34,11 @@
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 <script src="../js/back-to-top/main.js"></script> <!-- Gem jQuery -->
 <script src="../js/sidebar/sidebar.js"></script> <!-- Sidebar -->
+</body>
+</html>
 <!-- Ensure page refreshes to top of page -->
 <script>
   window.onbeforeunload = function () {
     window.scrollTo(0, 0);
   }
 </script>
-</body>
-</html>
