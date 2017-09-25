@@ -83,9 +83,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Building a cloud service to host and process temperature data from the NASA Reconnaissance Orbiter on the Moon",
-        "Reduced the runtime of I/O operations by 60% (15 hours) prior to using Amazon RAID configurations.",
-        "Producing a ‘potential sublimation rate’ map to identify and visualize potential ice deposits on the Moon."
+        "Building a cloud service infrastructure for scientists to host and query temperature data from the NASA Reconnaissance Orbiter top map potential ice depositson the Moon",
+        "Reduced the runtime of I/O operations by 85% (6300 hours per year of data) using Pandas and Amazon EC2."
       ]
     },
     {
@@ -124,10 +123,8 @@
       "summary": "",
       "highlights": [
         "Built a 72” video wall system using open-source software, IP routing, and seven Raspberry Pis.",
-         "Conducted initial feasibly tests and prototyping which led to a 97% cost
-reduction ($58,000 cheaper compared to commercially sold video wall).",
-"Reduced electricity costs by 40% by configuring a smart socket system to
-monitor and control the video wall’s energy consumption."
+         "Conducted initial feasibly tests and prototyping which led to a 97% cost reduction ($58,000 in savings).",
+"Reduced electricity costs by 40% by configuring a smart socket system to monitor and control the video wall’s energy consumption."
       ]
     },
      {
@@ -139,8 +136,7 @@ monitor and control the video wall’s energy consumption."
       "summary": "",
       "highlights": [
         "Refactored a mobile geographic information system (GIS) app to include a parcel data extraction feature using the ArcGIS API.",
-        "Developed a cross-platform Customer Relationship Management (CRM) app for iOS and Android using
-Cordova, Node.js, and Design Thinking to increase consultant and client interaction by 10%."
+        "Developed a cross-platform Customer Relationship Management (CRM) app for iOS and Android using Cordova, Node.js, and Design Thinking to increase consultant and client interaction by 10%."
       ]
     },
      {
@@ -152,8 +148,7 @@ Cordova, Node.js, and Design Thinking to increase consultant and client interact
       "summary": "Computer Science and STEM Mentor under Bebi Davis, PhD of the Kaimuki-McKinley-Roosevelt Complex Area",
       "highlights": [
         "Collaborated with 28 schools to develop a 21st-century STEM curriculum which sparked a 48% STEM interest among Hawaii high school students.",
-        "Mentored students that totaled $15,000+ in agency awards at the Honolulu District, Hawaii State, and
-Intel International Science and Engineering Fair.",
+        "Mentored students that totaled $15,000+ in agency awards at the Honolulu District, Hawaii State, and Intel International Science and Engineering Fair.",
         "Connected high school students with external mentors at the John A. Burns School of Medicine for research-based internships."
       ]
     }
