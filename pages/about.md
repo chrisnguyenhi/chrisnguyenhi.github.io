@@ -22,7 +22,7 @@ Here are some highlights of my past work experiences:
 <br>
 <br>
 
-I am currently a NASA Research Fellow working on creating a cloud-based service to host and process lunar temperature data from a spacecraft orbiting around the Moon. Originally it took 25 hours to read a day's worth of data-- I managed to slim it down to 10 hour so far... 
+I am currently a NASA Research Fellow working on creating a cloud-based service to host and process lunar temperature data from a spacecraft orbiting around the Moon. Originally it took 21 hours to read a day's worth of data-- I managed to slim it down to 10 hour so far... 
 <br>
 <br>
 My experience in the Tech industry and the Education industry has shown me how to apply my technical knowledge in all situations. After college, it is my desire to work in an environment where cross-functional coordination is used deliver value to consumers and end-users. 
