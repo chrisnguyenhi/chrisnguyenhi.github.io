@@ -21,9 +21,10 @@ body {
 
 #pixie {
   z-index:0;
-  background:-o-linear-gradient(top, #040429, #257eb7);
-  background:-ms-linear-gradient(top, #040429, #257eb7);
-  background:-moz-linear-gradient(top, #040429, #257eb7);
+  background: #FFA17F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #00223E, #FFA17F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #00223E, #FFA17F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7');
   -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7')";
   filter: contrast(105%);
@@ -52,7 +53,7 @@ body {
 }
 
 #mountains {
-  height:156px;
+  
   z-index:1;
   background:url(../../images/parallax-homepage/mountains.png) repeat-x 0 0;
 }
