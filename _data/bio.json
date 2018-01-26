@@ -83,7 +83,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Building a cloud service infrastructure for scientists to host and query temperature data from the NASA Reconnaissance Orbiter top map potential ice depositson the Moon",
+        "Building a cloud service infrastructure for scientists to host and query temperature data from the NASA Reconnaissance Orbiter top map potential ice deposits on the Moon",
         "Reduced the runtime of I/O operations by 85% (6300 hours per year of data) using Pandas and Amazon EC2."
       ]
     },
@@ -98,7 +98,7 @@
         "Automated the detection, sandbox, and build processes for 3rd party dependency updates in Watson Data Platform services.",
         "Followed the Visitor design pattern to develop RESTful Node.js and Express APIs to handle dependency version checks and documented them with Swagger.",
         "Led a team of 4 through sprint plannings and daily standups as scrum master.",
-        "Architected a blockchain solution forticket sales at the BlueHack hackathon."
+        "Architected a blockchain solution for ticket sales at the BlueHack hackathon."
       ]
     },
     {
