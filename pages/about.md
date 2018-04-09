@@ -25,15 +25,17 @@ In my NASA Space Grant Research, I'm working on identifying "cold traps" on the 
 <br>
 Here is a peak-temperature map I made using UCLA's Lunar Orbiter data for the South polar region of the Moon.
 You can see that the blue parts are the cold traps I was talking about:
+<br>
 <img class="ui fluid centered large image" src="../images/peak.png">
 <br>
-<br>
+
 At Oceanit (for round three), I am working on power line vegetation detection using a neuromorphic chip sponsored by a Korean semiconductor company.
 <br>
 My Oceanit team also developed Harvest Vision for the Hawaii AGathon. Harvest Vision is an AI camera system that improves annual coffee bean harvest yields by $250,000 using Raspberry Pis with OpenCV.
+<br>
 <img class="ui fluid centered large image" src="../images/harvest.jpeg">
 <br>
-<br>
+
 
 My experience in the Tech industry and the Education industry has shown me how to apply my technical knowledge in all situations. After college, it is my desire to work in an environment where cross-functional coordination is used deliver value to consumers and end-users.
 
