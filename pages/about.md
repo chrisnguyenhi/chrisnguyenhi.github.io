@@ -18,20 +18,20 @@ Here are some highlights of my past work experiences:
 <li> Oceanit: Developed two cross-platform mobile applications with Design Thinking.
 <li> Ditto: Developed a website with ~200 users while conducting consumer research and Google Analytics.
 <li> Oceanit: Made a video-wall using six Raspberry Pis.
-<li> IBM: Developed a dependency detection microservice for IBM Watson projects following the scrum-agile methodology.
+<li> IBM: Developed a dependency detection microservice for IBM Watson projects following the Scrum-Agile methodology.
 <br>
 <br>
 In my NASA Space Grant Research, I'm working on identifying "cold traps" on the Moon. Cold traps are regions on the Moon where it's cold enough to trap ice. If it's cold enough to trap ice, it's cold enough to trap water and water equals life.
 <br>
 Here is a peak-temperature map I made using UCLA's Lunar Orbiter data for the South polar region of the Moon.
 You can see that the blue parts are the cold traps I was talking about:
-<img class="ui fluid centered medium image" src="../images/peak.png">
+<img class="ui fluid centered large image" src="../images/peak.png">
 <br>
 <br>
 At Oceanit (for round three), I am working on power line vegetation detection using a neuromorphic chip sponsored by a Korean semiconductor company.
 <br>
-My Oceanit team also developed Harvest Vision for the Hawaii AGathon. Harvest Vision helps farmers save 
-<img class="ui fluid centered medium image" src="../images/peak.png">
+My Oceanit team also developed Harvest Vision for the Hawaii AGathon. Harvest Vision is an AI camera system that improves annual coffee bean harvest yields by $250,000 using Raspberry Pis with OpenCV.
+<img class="ui fluid centered large image" src="../images/harvest.jpeg">
 <br>
 <br>
 
