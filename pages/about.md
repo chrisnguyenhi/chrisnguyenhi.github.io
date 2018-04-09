@@ -5,7 +5,7 @@ description: "Computer Science student, NASA Space Grant Fellow, and former IBM 
 permalink: /about/
 ---
 
-<img class="ui fluid centered medium image" src="../images/h.JPG">
+<img class="ui fluid centered large image" src="../images/chris.PNG">
 
 Hi I'm Chris! I am senior at the University of Hawaii majoring in Computer Science with a minor in Business Administration.
 For the 2017 - 2018 school year, I'll be doing a research project under a NASA Space Grant Fellowship and an internship under Oceanit, a scientific innovation and reseearch company located in Honolulu, Hawaii. After graduation, I hope to become a Technical Program Manager or a Software Developer.
@@ -26,12 +26,14 @@ In my NASA Space Grant Research, I'm working on identifying "cold traps" on the 
 Here is a peak-temperature map I made using UCLA's Lunar Orbiter data for the South polar region of the Moon.
 You can see that the blue parts are the cold traps I was talking about:
 <br>
+<br>
 <img class="ui fluid centered large image" src="../images/peak.png">
 <br>
 
 At Oceanit (for round three), I am working on power line vegetation detection using a neuromorphic chip sponsored by a Korean semiconductor company.
 <br>
 My Oceanit team also developed Harvest Vision for the Hawaii AGathon. Harvest Vision is an AI camera system that improves annual coffee bean harvest yields by $250,000 using Raspberry Pis with OpenCV.
+<br>
 <br>
 <img class="ui fluid centered large image" src="../images/harvest.jpeg">
 <br>
