@@ -7,7 +7,7 @@ permalink: /about/
 
 <img class="ui fluid centered large image" src="../images/chris.png">
 
-Hi I'm Chris! I am senior at the University of Hawaii majoring in Computer Science with a minor in Business Administration.
+Hi I'm Chris! I am senior at the University of Hawaii majoring in Computer Science with a minor in Business.
 For the 2017 - 2018 school year, I'll be doing a research project under a NASA Space Grant Fellowship and an internship under Oceanit, a scientific innovation and reseearch company located in Honolulu, Hawaii. After graduation, I hope to become a Technical Program Manager or a Software Developer.
 
 Since September 2014, I've also been serving as a STEM Mentor for a school complex in Hawaii. My emphasis as a STEM Mentor is early Computer Science education. Part of this role involves collaborating with teachers to develop a 21st century Computer Science curriculum. I have also mentored several students with Computer Science projects for the Honolulu District, Hawaii State, and Intel International Science and Engineering Fairs.
