@@ -17,10 +17,10 @@ I believe that coding is a 21st century skill that everyone should have access t
 As a result, I served as a STEM mentor for the Hawaii Department of Education where I got to collab with really cool teachers to develop Computer Science curricula and mentor students for the Honolulu District, Hawaii State, and Intel International Science Fairs.
 
 <br>
-<img class="ui fluid centered medium image" src="../images/airisgroup.jpg">
+<img class="ui fluid centered large image" src="../images/airisgroup.jpg">
 <div class="ui form">
   <div class="ui message">
-    <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (2016).</div>
+    <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (Honolulu District Science Fair - Best in Software 2016)</div>
   </div>
 </div>
 <br>
@@ -29,7 +29,7 @@ Aside from tech and STEM outreach, I love Japanese subculture, street fashion, a
 <iframe width="660" height="415" src="https://www.youtube.com/embed/StySpGWJTaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="ui form">
   <div class="ui message">
-    <div class="header">I don't have any videos of me dancing, so here's one of my favorite dancers, Franklin Yu.</div>
+    <div class="header">I don't have any videos of me dancing, so here's one of my favorite dancers, Franklin Yu</div>
   </div>
 </div>
 <br>
