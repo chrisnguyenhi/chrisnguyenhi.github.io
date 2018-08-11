@@ -25,7 +25,10 @@ As a result, I served as a STEM mentor for the Hawaii Department of Education wh
 </div>
 <br>
 Aside from tech and STEM outreach, I love Japanese subculture, street fashion, and urban dance. Actually, my interest in urban dance happened when I stayed in UC Berkeley during my IBM internship and joined AFX (UC Berkeley's LARGEST dance organization).
-<div class="ui embed" data-source="youtube" data-id="StySpGWJTaM" data-placeholder="/images/image-16by9.png"></div>
+
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/StySpGWJTaM" data-placeholder="/images/bear-waving.jpg"></div>
+
 <div class="ui form">
   <div class="ui message">
     <div class="header">I don't have any videos of me dancing, so here's one of my favorite dancers, Franklin Yu</div>
