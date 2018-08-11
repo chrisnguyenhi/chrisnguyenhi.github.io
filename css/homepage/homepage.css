@@ -60,5 +60,5 @@ background: linear-gradient(top, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefo
 #grass {
   height:162px;
   z-index:2;
-  background:url(../../images/parallax-homepage/) repeat-x left 10px;
+  background:url(../../images/parallax-homepage/clout.png) repeat-x left 10px;
 }
