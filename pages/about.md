@@ -23,7 +23,7 @@ As a result, I served as a STEM mentor for the Hawaii Department of Education wh
     <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (Best in Software @ 2016 Honolulu District Science Fair)</div>
   </div>
 </div>
-
+<br>
 Aside from tech and STEM outreach, I love Japanese subculture, street fashion, and urban dance. Actually, my interest in urban dance happened when I stayed in UC Berkeley during my IBM internship and joined AFX (UC Berkeley's LARGEST dance organization).
 <iframe width="690" height="415" src="https://www.youtube.com/embed/StySpGWJTaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="ui form">
@@ -31,7 +31,7 @@ Aside from tech and STEM outreach, I love Japanese subculture, street fashion, a
     <div class="header">I don't have any videos of me dancing, so here's one of my favorite dancers, Franklin Yu</div>
   </div>
 </div>
-
+<br>
 Honestly, I really don't know what else to put on this About page. As of summer 2018, I'm still figuring a lot of stuff out--
 Stuff regarding the future, adulting, where I see myself career-wise and relationship-wise in 10 years, what to eat for lunch, etc.
 
