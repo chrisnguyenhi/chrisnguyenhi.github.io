@@ -4,10 +4,9 @@ html, div, span, canvas {
 }
 /* Need these backgrounds to fix initial white screen flash */
 body {
-  background:-o-linear-gradient(to right, #ff4e50, #f9d423);
-  background:-ms-linear-gradient(to right, #ff4e50, #f9d423);
-  background:-moz-linear-gradient(to right, #ff4e50, #f9d423);
-  background:-webkit-linear-gradient(to right, #ff4e50, #f9d423);
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #e74c3c); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #e74c3c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   margin:0;
   padding:0;
 }
