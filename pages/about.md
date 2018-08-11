@@ -20,7 +20,7 @@ As a result, I served as a STEM mentor for the Hawaii Department of Education wh
 <img class="ui fluid centered large image" src="../images/airisgroup.jpg">
 <div class="ui form">
   <div class="ui message">
-    <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (Honolulu District Science Fair - Best in Software 2016)</div>
+    <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (Best in Software @ 2016 Honolulu District Science Fair)</div>
   </div>
 </div>
 <br>
