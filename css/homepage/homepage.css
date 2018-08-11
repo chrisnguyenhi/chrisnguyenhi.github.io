@@ -53,12 +53,12 @@ background: linear-gradient(top, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefo
 }
 
 #mountains {
-  height: 156px;
+  height: 556px;
   z-index:1;
   background:url(../../images/parallax-homepage/mountains.png) repeat-x 0 0;
 }
 #grass {
-  height:62px;
+  height:162px;
   z-index:2;
   background:url(../../images/parallax-homepage/grass.png) repeat-x left 10px;
 }
