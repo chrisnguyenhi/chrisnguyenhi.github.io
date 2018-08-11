@@ -53,7 +53,7 @@ background: linear-gradient(top, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefo
 }
 
 #mountains {
-  height: 656px;
+  height: 556px;
   z-index:1;
   background:url(../../images/parallax-homepage/mountains.png) repeat-x 0 0;
 }
