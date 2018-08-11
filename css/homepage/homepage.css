@@ -62,13 +62,12 @@ body {
 
 #mountains {
   height: 1446px;
-  width: 904px;
   z-index: 1;
   background: url(../../images/parallax-homepage/mountains.png) repeat-x 0 0;
 }
 
 #grass {
-  height: 262px;
+  height: 182px;
   z-index: 2;
   background: url(../../images/parallax-homepage/clout.png) repeat-x left 10px;
 }
