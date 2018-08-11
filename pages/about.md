@@ -1,44 +1,39 @@
 ---
 layout: about
 title: About Me
-description: "Computer Science student, NASA Space Grant Fellow, and former IBM Software Developer Intern with the goal of using technology to create value."
+description: "Software Developer and Technical Program Manager with the goal of using technology to create value."
 permalink: /about/
 ---
 
 <img class="ui fluid centered large image" src="../images/chris.png">
 
-Hi I'm Chris! I am senior at the University of Hawaii majoring in Computer Science with a minor in Business.
-For the 2017 - 2018 school year, I'll be doing a research project under a NASA Space Grant Fellowship and an internship under Oceanit, a scientific innovation and reseearch company located in Honolulu, Hawaii. After graduation, I hope to become a Technical Program Manager or a Software Developer.
+Aloha! I'm Chris from Honolulu, Hawaii!
+Recently, I graduated the University of Hawaii at Manoa with a major in Computer Science and minor in Business.
+Prior to joining IBM in the Bay Area, I worked under the NASA Space Grant Fellowship program and interned at many Hawaii tech companies and startups.
 
-Since September 2014, I've also been serving as a STEM Mentor for a school complex in Hawaii. My emphasis as a STEM Mentor is early Computer Science education. Part of this role involves collaborating with teachers to develop a 21st century Computer Science curriculum. I have also mentored several students with Computer Science projects for the Honolulu District, Hawaii State, and Intel International Science and Engineering Fairs.
+Aside from software and project management, my passion is STEM advocation for the state of Hawaii.
+Unlike Seattle and the Bay Area, there is a lack of Computer Science teachers in the public school level.
+I believe that coding is a 21st century skill that everyone should have access to.
+As a result, I served as a STEM mentor with an emphasis on early Computer Science education for the Hawaii Department of Education.
+Part of this role involves collaborating with teachers to develop 21st century Computer Science curricula and mentoring students for the Honolulu District, Hawaii State, and Intel International Science and Engineering Fairs.
 
-My technical experience consists of internships at startups and large-sized companies.
-Here are some highlights of my past work experiences:
+<img class="ui fluid centered medium image" src="../images/airisgroup.jpg">
+<div class="ui form">
+  <div class="ui message">
+    <div class="header">Here's an image of my kids-- I mean, my mentees. </div>
+  </div>
+</div>
 
-<li> Oceanit: Developed two cross-platform mobile applications with Design Thinking.
-<li> Ditto: Developed a website with ~200 users while conducting consumer research and Google Analytics.
-<li> Oceanit: Made a video-wall using six Raspberry Pis.
-<li> IBM: Developed a dependency detection microservice for IBM Watson projects following the Scrum-Agile methodology.
-<br>
-<br>
-In my NASA Space Grant Research, I'm working on identifying "cold traps" on the Moon. Cold traps are regions on the Moon where it's cold enough to trap ice. If it's cold enough to trap ice, it's cold enough to trap water and water equals life.
-<br>
-Here is a peak-temperature map I made using UCLA's Lunar Orbiter data for the South polar region of the Moon.
-You can see that the blue parts are the cold traps I was talking about:
-<br>
-<br>
-<img class="ui fluid centered large image" src="../images/peak.png">
-<br>
+Aside from tech and STEM outreach, I love Japanese subculture and urban dance.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/StySpGWJTaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="ui form">
+  <div class="ui message">
+    <div class="header">I actually don't have any videos of me dancing, so here's a video of one of my favorite dancers, Franklin Yu.</div>
+  </div>
+</div>
 
-At Oceanit (for round three), I am working on power line vegetation detection using a neuromorphic chip sponsored by a Korean semiconductor company.
-<br>
-My Oceanit team also developed Harvest Vision for the Hawaii AGathon. Harvest Vision is an AI camera system that improves annual coffee bean harvest yields by $250,000 using Raspberry Pis with OpenCV.
-<br>
-<br>
-<img class="ui fluid centered large image" src="../images/harvest.jpeg">
-<br>
+Honestly, I really don't know what else to put on this About page. As of summer 2018, I'm still figuring a lot of stuff out--
+Stuff regarding the future, adulting, where I see myself career-wise and relationship-wise in 10 years, what to eat for lunch, etc.
 
-
-My experience in the Tech industry and the Education industry has shown me how to apply my technical knowledge in all situations. After college, it is my desire to work in an environment where cross-functional coordination is used deliver value to consumers and end-users.
-
+Anyway I hope you enjoy this site! (It's a WIP!)
 <hr>
