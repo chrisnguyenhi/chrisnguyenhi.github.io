@@ -61,7 +61,7 @@ body {
 }
 
 #mountains {
-  height: 1300px;
+  height: 1440px;
   z-index: 1;
   background: url(../../images/parallax-homepage/mountains.png) repeat-x 0 0;
 }
