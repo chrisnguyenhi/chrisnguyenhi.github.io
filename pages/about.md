@@ -11,25 +11,26 @@ Aloha! I'm Chris from Honolulu, Hawaii!
 Recently, I graduated the University of Hawaii at Manoa with a major in Computer Science and minor in Business.
 Prior to joining IBM in the Bay Area, I worked under the NASA Space Grant Fellowship program and interned at many Hawaii tech companies and startups.
 
-Aside from software and project management, my passion is STEM advocation for the state of Hawaii.
-Unlike Seattle and the Bay Area, there is a lack of Computer Science teachers in the public school level.
+Aside from software and project management, my passion is STEM advocation.
+Unlike Seattle and the Bay Area, there is a lack of Computer Science teachers in the public school level in Hawaii.
 I believe that coding is a 21st century skill that everyone should have access to.
-As a result, I served as a STEM mentor for the Hawaii Department of Education where I got to collab with teachers to develop century Computer Science curricula and mentor students for the Honolulu District, Hawaii State, and Intel International Science and Engineering Fairs.
+As a result, I served as a STEM mentor for the Hawaii Department of Education where I got to collab with really cool teachers to develop Computer Science curricula and mentor students for the Honolulu District, Hawaii State, and Intel International Science Fairs.
 
-<br><br>
+<br>
 <img class="ui fluid centered medium image" src="../images/airisgroup.jpg">
 <div class="ui form">
   <div class="ui message">
-    <div class="header">Here's an image of my kids-- I mean, my mentees. </div>
+    <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (2016).</div>
   </div>
 </div>
-<br><br>
+<br>
 
-Aside from tech and STEM outreach, I love Japanese subculture and urban dance.
+Aside from tech and STEM outreach, I love Japanese subculture, street fashion, and urban dance.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/StySpGWJTaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br><br>
 <div class="ui form">
   <div class="ui message">
-    <div class="header">I actually don't have any videos of me dancing, so here's a video of one of my favorite dancers, Franklin Yu.</div>
+    <div class="header">I don't have any videos of me dancing, so here's one of my favorite dancers, Franklin Yu.</div>
   </div>
 </div>
 <br><br>
