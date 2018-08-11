@@ -67,7 +67,7 @@ body {
 }
 
 #grass {
-  height: 182px;
+  height: 162px;
   z-index: 2;
   background: url(../../images/parallax-homepage/clout.png) repeat-x left 10px;
 }
