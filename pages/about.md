@@ -8,7 +8,7 @@ permalink: /about/
 <img class="ui fluid centered large image" src="../images/chris.png">
 
 Hi! I'm Chris from Honolulu, Hawaii!
-Recently, I graduated the University of Hawaii at Manoa with a major in Computer Science and minor in Business.
+I graduated the University of Hawaii at Manoa with a major in Computer Science and minor in Business with focuses in Software Development and Project Managment. 
 Prior to joining IBM in the Bay Area, I worked under the NASA Space Grant Fellowship program and interned at many Hawaii tech companies and startups.
 
 Aside from software and project management, my passion is STEM advocation.
@@ -22,11 +22,11 @@ As a result, I served as a STEM mentor for the Hawaii Department of Education wh
   <div class="ui message">
     <div class="header">Here's an image of my kids-- I mean, my mentees-- with their OpenCV Computer Vision science fair project (Best in Software @ 2016 Honolulu District Science Fair)</div>
   </div>
-</div>ß
+</div>
 <br>
 
 Aside from tech and STEM outreach, I love Japanese subculture, street fashion, and urban dance. Actually, my interest in urban dance happened when I stayed in UC Berkeley during my IBM internship and joined AFX (UC Berkeley's LARGEST dance organization).
-<iframe width="695" height="415" src="https://www.youtube.com/embed/StySpGWJTaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="690" height="415" src="https://www.youtube.com/embed/StySpGWJTaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="ui form">
   <div class="ui message">
     <div class="header">I don't have any videos of me dancing, so here's one of my favorite dancers, Franklin Yu</div>
