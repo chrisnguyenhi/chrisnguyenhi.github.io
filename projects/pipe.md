@@ -21,7 +21,9 @@ After a command is entered, the program scans for keywords mapped to selected co
 <br>
 <img src="../images/PIPE1.png" class="ui huge floated rounded image">
 <br>
-This was my first-ever programming project using the first programming language I learned. Now that I am real software developer, I feel that it was probably a bad idea for a high school junior to pick C as his first programming language to learn. It was definitely a huge learning curve from teaching myself how to program to creating an application that accomplishes a goal.
+This was my first-ever programming project using the first programming language I learned. 
+Now that I am real software developer, I feel that it was probably a bad idea for a high school junior to pick C as his first programming language.
+It was definitely a huge learning curve from teaching myself how to program to creating an application that accomplishes a goal.
 
 What drove me to create PIPE was my desire to simplify programming for beginning programmers.
 From this high school science fair project, I had my first experience with Natural Language Processing (a popular topic in Computer Science) and learned basic C concepts such as if-statements, for-loops, pointers and I/O.
