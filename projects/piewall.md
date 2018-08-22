@@ -10,7 +10,7 @@ labels:
   - Shell
   - IP/TCP
 
-summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis.
+summary: Inexpensive, 72" automated video wall system using six 24" monitors and seven Raspberry Pis.
 ---
 <img class class="ui large right floated rounded image" src="../images/piwall2.jpg">
 

@@ -9,7 +9,7 @@ labels:
   - Java
   - Animation
   - Pokemon
-summary: A scripted Pokemon battle animation developed for ICS 111 at the University of Hawaii at Manoa.
+summary: Scripted Pokemon battle animation in Java parodying my ICS 111 professor and TA.
 ---
 <iframe width="620" height="480" src="https://www.youtube.com/embed/EqaDmNBn5KA" frameborder="0" allowfullscreen></iframe>
 
