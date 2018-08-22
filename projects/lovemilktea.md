@@ -53,9 +53,8 @@ Because of this tedious experience, I now save a script containing build command
 
 
 The greatest takeway from the HACC is the power of storytelling.
-No matter how complex or algorithimically-secure a program or software is there will always be a need to convey how cool or amazing that program or software is in order for users to see the real value of it. I
- definitely think that the work we did on our project video made a great impact on our standings in the HACC and lead my team to the first prize. T
- his HACC has shown me that being able to convey ideas in an elegant and engaging way is something that all Software Engineers and Software Developers need to be able to do in order to advance their careers and quantify the impact of their work.  
+No matter how complex or algorithimically-secure a program or software is there will always be a need to convey how cool or amazing that program or software is in order for users to see the real value of it.
+This HACC has shown me that being able to convey ideas in an engaging way is something that all Software Engineers and Software Developers need to be able to do in order to advance their careers and quantify the impact of their work.  
 
 For more information and the code repository, please check out the Github link below for the latest version of Wayfinder! Or try our [live Heroku deployment!](https://lovemilktea.herokuapp.com/)
 
