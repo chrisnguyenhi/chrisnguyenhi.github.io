@@ -50,8 +50,8 @@ With the Intellisocket system, the entire Piewall system's energy consumption ca
 
 <img class class="ui large floated rounded image" src="../images/ibis.png">
 
-The Ibis Intellisockets also came with a software that allows the Piewall system's users to easily automate the shutdown of the Piewall system and show visualizations of the Piewall's energy consumption rate. 
-The Piewall is currently programmed to turn on and shutdown by a standard "9-5" workday from Mondays to Fridays.
+The Ibis Intellisockets also came with a software that allows the Piewall system's users to easily automate the shutdown of the Piewall system and show visualizations of the Piewall's energy consumption rate.
+The Piewall is currently programmed to turn on and shutdown by a standard "9-5" workday.
 
 If you want to learn more about this project, please check out the github link below for my configurations and settings!
 
