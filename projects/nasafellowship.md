@@ -29,7 +29,7 @@ In addition, I used Python multiprocessing modules to process Diviner data in pa
 
 Along with creating data processing tools to work with Diviner data, I also created maps of peak temperatures using [Matplotlib](https://matplotlib.org/) based on larger datasets to visualize where cold traps can be found on the Moon.
 
-<img src="/images/lrocomp.png" class="ui huge floated rounded image">
+<img src="/images/lrocomp.png" class="ui big floated rounded image">
 
 Ultimately, I was able to achieve a 28MB/sec read time with my data processing tools and discovered that the cold traps on the Moon are shrinking.
 Based on a comparison and visualization of peak temperatures on the Moon from 2009 and 2010-2016, it was evident that cold traps on the Moon shrink with time.
