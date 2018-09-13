@@ -21,8 +21,12 @@ The goal of my project was to create scalable tools that read and process temper
 
 <img src="/images/lro.jpg" class="ui huge floated rounded image">
 
+
 Thanks to the funding and support from the [NASA Space Grant program](https://www.nasa.gov/offices/education/programs/national/spacegrant/home/index.html), I was able to use multiple [Amazon Web Services cloud configurations](https://aws.amazon.com/config/) to host Diviner data after preprocessing the data to remove NaNs and error values.
 In addition, I used Python multiprocessing modules to process Diviner data in parallel and reduced I/O operations by 85% (6570 hours per year of data).
+
+<img src="/images/northernpolarregion.png" class="ui huge floated rounded image">
+
 Along with creating data processing tools to work with Diviner data, I also created maps of peak temperatures using [Matplotlib](https://matplotlib.org/) based on larger datasets to visualize where cold traps can be found on the Moon.
 
 <img src="/images/lrocomp.png" width="700" height="400" class="ui huge floated rounded image">
