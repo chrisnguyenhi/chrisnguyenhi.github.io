@@ -20,7 +20,7 @@ On the moon, there are regions that are cold enough to host long-lasting deposit
 Thanks to the funding and support from the NASA Space Grant program, I was able to use multiple Amazon Web Services cloud configurations to host Diviner data. Along with creating data processing tools to work with Diviner data, I also created maps of peak temperature based on a larger dataset to visualize where cold traps can be found on the Moon.
 
 <img src="/images/lrocomp.png" width="700" height="400" class="ui huge floated rounded image"></img>
-
+<br><br><br>
 <div class="ui form">
   <div class="ui message">
     <div class="header">Cold trap comparison for 2009 (left) and 2010-2016 (right). The cold traps in the 2009 temperature map are larger than the ones from the 2010-2016 temperature map.</div>
