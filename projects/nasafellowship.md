@@ -31,6 +31,7 @@ Along with creating data processing tools to work with Diviner data, I also crea
 
 <img src="/images/lrocomp.png" class="ui big floated rounded image">
 
+
 Ultimately, I was able to achieve a 28MB/sec read time with my data processing tools and discovered that the cold traps on the Moon are shrinking.
 Based on a comparison and visualization of peak temperatures on the Moon from 2009 and 2010-2016, it was evident that cold traps on the Moon shrink with time.
 Smaller cold traps imply that the temperature of the Moon has been increasing as the moon undergoes small orbital changes (lunar precession) every year.
