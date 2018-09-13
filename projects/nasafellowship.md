@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/lro.jpg
-title: Finding Cold Traps on the Moon - NASA Fellowship Project
+title: Finding Cold Traps on the Moon (NASA)
 permalink: projects/nasafellowship
 date: 2018
 labels:
