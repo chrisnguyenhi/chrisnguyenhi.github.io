@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/lro.jpg
-title: NASA Fellowship Project - Diviner Mapping
+title: Finding Cold Traps on the Moon - NASA Fellowship Project
 permalink: projects/nasafellowship
 date: 2018
 labels:
@@ -19,11 +19,11 @@ Diviner is a NASA instrument that measures day and night surface temperatures of
 Since July 2009, the Diviner has produced one [dataset](http://pds-geosciences.wustl.edu/missions/lro/diviner.htm) for every 10 minutes of every day with each data file containing 800,000+ lines of data.
 The goal of my project was to create scalable tools that read and process temperature data in parallel, so scientific analysis can proceed more rapidly.
 
-<img src="/images/lro.jpg" width="700" height="400" class="ui huge floated rounded image">
+<img src="/images/lro.jpg" class="ui huge floated rounded image">
 
-Thanks to the funding and support from the NASA Space Grant program, I was able to use multiple Amazon Web Services cloud configurations to host Diviner data.
+Thanks to the funding and support from the [NASA Space Grant program](https://www.nasa.gov/offices/education/programs/national/spacegrant/home/index.html), I was able to use multiple [Amazon Web Services cloud configurations](https://aws.amazon.com/config/) to host Diviner data after preprocessing the data to remove NaNs and error values.
 In addition, I used Python multiprocessing modules to process Diviner data in parallel and reduced I/O operations by 85% (6570 hours per year of data).
-Along with creating data processing tools to work with Diviner data, I also created maps of peak temperature using [Matplotlib](https://matplotlib.org/) based on a larger dataset to visualize where cold traps can be found on the Moon.
+Along with creating data processing tools to work with Diviner data, I also created maps of peak temperatures using [Matplotlib](https://matplotlib.org/) based on larger datasets to visualize where cold traps can be found on the Moon.
 
 <img src="/images/lrocomp.png" width="700" height="400" class="ui huge floated rounded image">
 Cold trap comparison for 2009 (left) and 2010-2016 (right).
@@ -34,4 +34,4 @@ Based on a comparison and visualization of peak temperatures on the Moon from 20
 Smaller cold traps imply that the temperature of the Moon has been increasing as the moon undergoes small orbital changes (lunar precession) every year.
 
 This project has taught me the importance using multiprocessing and writing efficient code to decrease bottlenecks and costs because of the large volume of data the Diviner produces daily.
-In addition, I also developed my project management skills as I had to factor in the project timeline, scope, and cost constraints to ensure monthly project progress and deliverables to my project mentor and Hawaii Space Grant Consortium to obtain continual funding from the NASA Space Grant Fellowship.
+In addition, I also developed my project management skills as I had to factor in the project timeline, scope, and cost constraints to ensure monthly project progress and deliverables to my project mentor and Hawaii Space Grant Consortium to obtain continual funding from the NASA Space Grant Fellowship program.
