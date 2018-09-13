@@ -29,10 +29,15 @@ In addition, I used Python multiprocessing modules to process Diviner data in pa
 
 Along with creating data processing tools to work with Diviner data, I also created maps of peak temperatures using [Matplotlib](https://matplotlib.org/) based on larger datasets to visualize where cold traps can be found on the Moon.
 
-<img src="/images/lrotwice.png" class="ui medium floated rounded image">
-Cold trap comparison for 2009 (left) and 2010-2016 (right).
-The cold traps in the 2009 temperature map are larger than the ones from the 2010-2016 temperature map.
-
+<br>
+<img class="ui fluid centered large image" src="../images/lrotwice.png">
+<div class="ui form">
+  <div class="ui message">
+    <div class="header">Cold trap comparison for 2009 (left) and 2010-2016 (right).
+    The cold traps in the 2009 temperature map are larger than the ones from the 2010-2016 temperature map.</div>
+  </div>
+</div>
+<br>
 
 <img src="/images/lrocomp.png" width="700" height="400" class="ui huge floated rounded image">
 
