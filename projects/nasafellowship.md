@@ -14,8 +14,8 @@ summary: NASA Space Grant Fellowship Project to map potential ice deposits using
 ---
 
 On the moon, there are regions that are cold enough to host long-lasting deposits of water ice. These regions with long-lasting water ice deposits are known as “cold traps.” Throughout my Fall 2017 and Spring 2018 fellowship period, I worked with [Diviner](https://www.diviner.ucla.edu/) data from the NASA [Lunar Reconnaissance Orbiter (LRO)](http://staff.diviner.ucla.edu/).
-<img src="/images/lro.jpg" class="ui medium floated rounded image">
 <br>
+<img src="/images/lro.jpg" class="ui medium floated rounded image">
 
 Diviner is a NASA instrument that measures day and night surface temperatures of the lunar surface.
 Since July 2009, the Diviner has produced one [dataset](http://pds-geosciences.wustl.edu/missions/lro/diviner.htm) for every 10 minutes of every day with each data file containing 800,000+ lines of data.
@@ -25,7 +25,6 @@ Thanks to the funding and support from the [NASA Space Grant program](https://ww
 In addition, I used Python multiprocessing modules to process Diviner data in parallel and reduced I/O operations by 85% (6570 hours per year of data).
 <img class="ui fluid centered huge image" src="../images/lrotwice.png">
 Along with creating data processing tools to work with Diviner data, I also created maps of peak temperatures using [Matplotlib](https://matplotlib.org/) based on larger datasets to visualize where cold traps can be found on the Moon.
-<br>
 <img src="/images/lrocomp.png" class="ui large floated rounded image">
 <br>
 
