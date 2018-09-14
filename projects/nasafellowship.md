@@ -19,8 +19,8 @@ Diviner is a NASA instrument that measures day and night surface temperatures of
 Since July 2009, the Diviner has produced one [dataset](http://pds-geosciences.wustl.edu/missions/lro/diviner.htm) for every 10 minutes of every day with each data file containing 800,000+ lines of data.
 The goal of my project was to create scalable tools that read and process temperature data in parallel, so scientific analysis can proceed more rapidly.
 
-<img src="/images/lro.jpg" class="ui small floated rounded image">
-
+<img src="/images/lro.jpg" class="ui medium floated rounded image">
+<br>
 Thanks to the funding and support from the [NASA Space Grant program](https://www.nasa.gov/offices/education/programs/national/spacegrant/home/index.html), I was able to use multiple [Amazon Web Services cloud configurations](https://aws.amazon.com/config/) to host Diviner data after preprocessing the data to remove NaNs and error values.
 In addition, I used Python multiprocessing modules to process Diviner data in parallel and reduced I/O operations by 85% (6570 hours per year of data).
 
@@ -28,7 +28,6 @@ In addition, I used Python multiprocessing modules to process Diviner data in pa
 Along with creating data processing tools to work with Diviner data, I also created maps of peak temperatures using [Matplotlib](https://matplotlib.org/) based on larger datasets to visualize where cold traps can be found on the Moon.
 <br>
 <img src="/images/lrocomp.png" class="ui large floated rounded image">
-<br>
 <br>
 <br>
 Ultimately, I was able to achieve a 28MB/sec read time with my data processing tools and discovered that the cold traps on the Moon are shrinking.
