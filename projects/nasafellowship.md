@@ -30,7 +30,7 @@ Along with creating data processing tools to work with Diviner data, I also crea
 
 Ultimately, I was able to achieve a 28MB/sec read time with my data processing tools and discovered that the cold traps on the Moon are shrinking.
 Based on a comparison and visualization of peak temperatures on the Moon from 2009 and 2010-2016, it was evident that cold traps on the Moon shrink with time.
-Smaller cold traps imply that the temperature of the Moon has been increasing as the moon undergoes small orbital changes (lunar precession) every year.
+Smaller cold traps imply that the temperature of the Moon has been increasing as the moon undergoes small orbital changes ([lunar precession](https://en.wikipedia.org/wiki/Lunar_precession)) every year.
 
 This project has taught me the importance using multiprocessing and writing efficient code to decrease bottlenecks and costs because of the large volume of data the Diviner produces daily.
 In addition, I also developed my project management skills as I had to factor in the project timeline, scope, and cost constraints to ensure monthly project progress and deliverables to my project mentor and Hawaii Space Grant Consortium to obtain continual funding from the NASA Space Grant Fellowship program.
