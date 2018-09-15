@@ -15,7 +15,6 @@ summary: NASA Space Grant Fellowship Project to map potential ice deposits using
 
 On the moon, there are regions that are cold enough to host long-lasting deposits of water ice. These regions with long-lasting water ice deposits are known as “cold traps.” Throughout my Fall 2017 and Spring 2018 fellowship period, I worked with [Diviner](https://www.diviner.ucla.edu/) data from the NASA [Lunar Reconnaissance Orbiter (LRO)](http://staff.diviner.ucla.edu/).
 
-<br>
 <img src="/images/lro.jpg" class="ui medium floated rounded image">
 
 Diviner is a NASA instrument that measures day and night surface temperatures of the lunar surface.
