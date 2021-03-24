@@ -12,9 +12,9 @@ I graduated the University of Hawaii at Manoa with a major in Computer Science a
 Prior to joining IBM in the Bay Area, I worked under the NASA Space Grant Fellowship program and interned at many Hawaii tech companies and startups.
 
 Aside from software and project management, my passion is STEM advocation.
-Unlike Seattle and the Bay Area, there is a lack of Computer Science education resources in Hawaii.
 I believe that coding is a 21st century skill that everyone should have access to.
-As a result, I served as a STEM mentor for the Hawaii Department of Education where I got to collab with really cool teachers to develop Computer Science curricula and mentor students for the Honolulu District, Hawaii State, and Intel International Science Fairs.
+As a result, I served as a STEM mentor for the Hawaii Department of Education where I got to collab with some really cool teachers to develop Computer Science curricula and mentor students for the Honolulu District, Hawaii State, and Intel International Science Fairs.
+<br>
 <br>
 Anyway I hope you enjoy this site! (It's a WIP!)
 <hr>
