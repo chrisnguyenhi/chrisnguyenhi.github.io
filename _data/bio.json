@@ -77,7 +77,7 @@
   "work": [
   	{
       "company": "NASA",
-      "position": "Space Grant Fellow",
+      "position": "Software Engineer (Space Grant Fellow)",
       "website": "http://www.spacegrant.hawaii.edu",
       "startDate": "2017-08-22",
       "endDate": "Present",
@@ -103,7 +103,7 @@
     },
     {
       "company": "Oceanit",
-      "position": "Network Security Intern",
+      "position": "Intern",
       "website": "http://www.oceanit.com",
       "startDate": "2016-11-01",
       "endDate": "2017-05-19",
@@ -116,7 +116,7 @@
     },
     {
       "company": "Ditto",
-      "position": "Software Development Intern",
+      "position": "Intern",
       "website": "http://bluestartups.com/cohort-6",
       "startDate": "2015-10-30",
       "endDate": "2016-02-15",
